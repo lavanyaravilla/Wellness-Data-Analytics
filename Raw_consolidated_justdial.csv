@@ -1,0 +1,523 @@
+name,address,phone,rating,reviews,category
+Go Activ International,"R V Road Cross Basavanagudi, Bangalore",9980235474,4.8,107.0,Gyms
+Emerge Private Fitness Studio,"24th Cross Jayanagar 6th Block, Bangalore",9606166994,4.8,1.0,Gyms
+4th Station Gym,"2nd Block Basaveshwara Nagar, Bangalore",6366558724,4.5,467.0,Gyms
+Emerge Premium Fitness Studio,"S Kariyappa Road Jayanagar 7th Block, Bangalore",9054821932,4.8,119.0,Gyms
+Iconic Fitness Koramangala,"Wipro Signal Koramangala 1st Block, Bangalore",8904249820,4.7,802.0,Gyms
+Fitness Race,"Dinnur Main Road Rt Nagar, Bangalore",8105032618,4.5,382.0,Gyms
+Witness The Fitness,"Devachikkahalli Main Road Begur, Bangalore",7041567319,4.9,395.0,Gyms
+Zero 3,"29th Cross Main Road Kaggadasapura Road, Bangalore",7048312669,5.0,1.0,Gyms
+Tenzee Multisports,"Bannerghatta Main Road Bilekahalli, Bangalore",9724613948,4.3,187.0,Gyms
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",8511066401,4.6,367.0,Gyms
+Kittys Muscle Planet,"Modi Hospital Road Basaveshwara Nagar, Bangalore",8460484369,4.9,367.0,Gyms
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",8401150426,5.0,211.0,Gyms
+Clout Fit,"Whitefield Hoskote Road Belathur, Bangalore",8401264082,4.9,671.0,Gyms
+Emerge Private Fitness Studio - RR Nagar,"Rajarajeshwari Nagar, Bangalore",9606292814,4.9,565.0,Gyms
+Get Sculpt Here,"Ambedkar Nagar Hill Top Whitefield, Bangalore",7041151920,3.5,2.0,Gyms
+Emerge Fitness Studio and Sports Arena Kengeri,"Kengeri Ring Road Gnanabharathi, Bangalore",8123790528,4.5,14.0,Gyms
+Rowell Fitness,"1st Jp Nagar 7th Phase, Bangalore",9035018526,4.9,449.0,Gyms
+Gonature Fitness Centre,"4th Phase Yelahanka New Town, Bangalore",9035079230,4.5,285.0,Gyms
+Fit Society,"Bull Temple Main Road Basavanagudi, Bangalore",9845270206,4.9,214.0,Gyms
+Sunrise Fitness,"4th Cross Sudhama Nagar, Bangalore",9980209662,4.6,24.0,Gyms
+Clout Fit,"Kodigehalli Main Road Krishnarajapuram, Bangalore",8401768770,4.7,722.0,Gyms
+Skanda Fitness Centrer,"8th Cross Kaveri Kantha Koramangala, Bangalore",7411829469,4.8,542.0,Gyms
+Apple Fitness,"18th Main Road Jayanagar 4th T Block, Bangalore",8460415524,4.1,752.0,Gyms
+Silhouette Fitness,"24th Cross Road Banashankari 2nd Stage, Bangalore",9980229160,4.6,652.0,Gyms
+Finix Fitness Studio,"Gandhi Bazar Main Road Basavanagudi, Bangalore",8050765716,4.6,883.0,Gyms
+Vivs Gym,"Mosque Road Frazer Town, Bangalore",8050264059,4.3,262.0,Gyms
+Excel Dance and Fitness,"BTM 4th Stage Vijaya Bank Layout, Bangalore",8490888466,4.5,74.0,Gyms
+Bmf Station Body Mind Fit,"Muneshwara Block Banashankari 3rd Stage, Bangalore",8460510367,4.6,114.0,Gyms
+Shields Fitness Club,"Vani Vilas Road Basavanagudi, Bangalore",9980543710,4.7,569.0,Gyms
+Wow Fitness Gym At Isro Layout,"Stage 2 Isro Layout, Bangalore",7041554537,4.8,506.0,Gyms
+Elite Squad Gymnastics Academy (Chandapura),"Marsur Gate Marsur, Bangalore",07383740174,4.8,29.0,Fitness-Studio
+Iconic Fitness Koramangala,"Wipro Signal Koramangala 1st Block, Bangalore",08904249820,4.7,802.0,Fitness-Studio
+Vivs Gym,"Mosque Road Frazer Town, Bangalore",08050264059,4.3,262.0,Fitness-Studio
+Excel Dance and Fitness,"BTM 4th Stage Vijaya Bank Layout, Bangalore",08490888466,4.5,74.0,Fitness-Studio
+Shubha Sangeetha Mattu Nrutya Paata Shale,"Nagadevanahalli-gnanabharathi, Bangalore",09980149688,4.1,11.0,Fitness-Studio
+Skanda Fitness Centrer,"8th Cross Kaveri Kantha Koramangala, Bangalore",07411829469,4.8,542.0,Fitness-Studio
+Fit Society,"Bull Temple Main Road Basavanagudi, Bangalore",09845270206,4.9,214.0,Fitness-Studio
+Reckon Dance Zumba & Fitness Studio LLP,"Dr. Shivaramkaranth Nagar Mcehslayout Hegde Nagar, Bangalore",07490847214,4.7,101.0,Fitness-Studio
+Prafitz Dance & Fitness,"Immadihalli Main Road Whitefield, Bangalore",07487861570,4.9,49.0,Fitness-Studio
+Shields Fitness Club,"Vani Vilas Road Basavanagudi, Bangalore",09980543710,4.7,569.0,Fitness-Studio
+Silhouette Fitness,"24th Cross Road Banashankari 2nd Stage, Bangalore",09980229160,4.6,652.0,Fitness-Studio
+Rowell Fitness,"1st Jp Nagar 7th Phase, Bangalore",09035018526,4.9,449.0,Fitness-Studio
+Fitness Race,"Dinnur Main Road Rt Nagar, Bangalore",08105032618,4.5,382.0,Fitness-Studio
+Apple Fitness,"18th Main Road Jayanagar 4th T Block, Bangalore",08460415524,4.1,752.0,Fitness-Studio
+Emerge Fitness Studio and Sports Arena Kengeri,"Kengeri Ring Road Gnanabharathi, Bangalore",08123790528,4.5,14.0,Fitness-Studio
+Get Sculpt Here,"Ambedkar Nagar Hill Top Whitefield, Bangalore",07041151920,3.5,2.0,Fitness-Studio
+Shorin Ryu Karate Do Martial Arts Fitness Clubs,"Gandhi Circle Varthur Varthur, Bangalore",09980239396,4.6,11.0,Fitness-Studio
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",08401150426,5.0,211.0,Fitness-Studio
+Tenzee Multisports,"Bannerghatta Main Road Bilekahalli, Bangalore",09724613948,4.3,187.0,Fitness-Studio
+Leon Maestro De Fitness,"Kammanahalli Main Road Kammanahalli, Bangalore",09980137198,4.5,469.0,Fitness-Studio
+The Happy Yoga Community,"23rd Cross Jayanagar 7th Block, Bangalore",09725979029,4.7,219.0,Fitness-Studio
+Bangalore Indoor Cricket Club,"Next to G T Residential Layout Laggere, Bangalore",09980216977,4.2,962.0,Fitness-Studio
+Emerge Private Fitness Studio,"24th Cross Jayanagar 6th Block, Bangalore",09606166994,4.8,1.0,Fitness-Studio
+Excel Dance And Fitness Academy,"5th Cross Road Koramangala 6th Block, Bangalore",09740248499,4.7,76.0,Fitness-Studio
+Finix Fitness Studio,"Gandhi Bazar Main Road Basavanagudi, Bangalore",08050765716,4.6,883.0,Fitness-Studio
+Muscle Craft Fitness Centre,"24th Main Jp Nagar 5th Phase, Bangalore",09980011967,4.3,174.0,Fitness-Studio
+Move N Groove Dance and Fitness Studio Sanjaynagar Branch,"Sanjay Nagar Main Road Sanjay Nagar, Bangalore",08460492997,3.5,2.0,Fitness-Studio
+Kittys Muscle Planet,"Modi Hospital Road Basaveshwara Nagar, Bangalore",08460484369,4.9,367.0,Fitness-Studio
+Zero 3,"29th Cross Main Road Kaggadasapura Road, Bangalore",07048312669,5.0,1.0,Fitness-Studio
+Muscle Pump Gym,"ITI Layout Kathriguppe, Bangalore",08867682568,4.6,82.0,Fitness-Studio
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",08511066401,4.6,367.0,Fitness-Studio
+Emerge Premium Fitness Studio,"S Kariyappa Road Jayanagar 7th Block, Bangalore",09054821932,4.8,119.0,Fitness-Studio
+4th Station Gym,"2nd Block Basaveshwara Nagar, Bangalore",06366558724,4.5,467.0,Fitness-Studio
+Clout Fit,"Whitefield Hoskote Road Belathur, Bangalore",08401264082,4.9,671.0,Fitness-Studio
+Eden Spalicious Pvt Ltd,"Anjaneya Nagar Banashankari 3rd Stage, Bangalore",09980216892,3.6,121.0,Fitness-Studio
+Furyinc.Co,Bangalore,09980116072,4.4,4.0,Fitness-Studio
+Witness The Fitness,"Devachikkahalli Main Road Begur, Bangalore",07041567319,4.9,395.0,Fitness-Studio
+Reboot Fitness and Dance Studio,"Ombr Layout-Banaswadi, Bangalore",09980229077,4.5,39.0,Fitness-Studio
+Bmf Station Body Mind Fit,"Muneshwara Block Banashankari 3rd Stage, Bangalore",08460510367,4.6,114.0,Fitness-Studio
+Clout Fit,"Kodigehalli Main Road Krishnarajapuram, Bangalore",08401768770,4.7,722.0,Fitness-Studio
+Rba Of Arts,"Beml Layout Rajarajeshwari Nagar, Bangalore",09980539404,4.5,65.0,Fitness-Studio
+TFT GYM,"Kumaraswamy Layout Kumaraswamy Layout 1st Stage, Bangalore",09980232674,4.7,366.0,Fitness-Studio
+Sunrisers Sports & Cultural Federation,"Anand Layout Vidyaranyapura, Bangalore",Show Number,4.6,11.0,Fitness-Studio
+Fitness First,"Whitefield Main Road Whitefield, Bangalore",08401527147,4.3,185.0,Fitness-Studio
+M3 Fitness Club,"Marathalli Outer Ring Road Marathahalli, Bangalore",Show Number,4.3,64.0,Fitness-Studio
+SAP Fitness,"Kempegowda Layout Outer Ring Road Laggere, Bangalore",09980796687,5.0,35.0,Fitness-Studio
+Skanda Fitness Center,"8th Cross Road Jakkasandra, Bangalore",07947313088,4.8,547.0,Fitness-Studio
+Ymia Club,"Assaye Road, Bangalore",09606170197,4.0,69.0,Fitness-Studio
+TRIURGE,"Jayanagar, Bangalore",Show Number,4.8,103.0,Fitness-Studio
+Jbs Football Ground,"Krishnappa Garden C V Raman Nagar, Bangalore",08045784912,4.2,797.0,Fitness-Studio
+Body Edit,"80 Feet Road Padmanabhanagar, Bangalore",Show Number,5.0,194.0,Fitness-Studio
+Jayanagar Volleyball Stadium,"Bengaluru Jayanagar, Bangalore",09606185598,4.8,319.0,Fitness-Studio
+The Hsr Club,"22nd Cross HSR Layout Sector 3, Bangalore",Show Number,4.2,7.0,Fitness-Studio
+The Majesstine Sports,"5th Cross Garvebhavipalya, Bangalore",Show Number,4.4,3.0,Fitness-Studio
+Star Fitness Gym & Health Club,"Saraswathipuram Main Road Saraswathipuram, Bangalore",Show Number,4.0,3.0,Fitness-Studio
+Hawk Fitness,"Electronic C electronic city, Bangalore",Show Number,4.9,1.0,Fitness-Studio
+Moveza Fitness - Panathur,"Panathur Road Kadubeesanahalli, Bangalore",Show Number,4.1,2.0,Fitness-Studio
+Zest Fitness Studio Ect,"Neeladri Road Electronic City, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Reforma Fitness Center,"Mathikere Main Road Mathikere, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Fitness Empire,"Outer Ring Road Marathahalli, Bangalore",Show Number,4.7,1.0,Fitness-Studio
+Fitness Fuel Factory,"17th Cross HSR Layout, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Srx Fitness Studio,"HMT Main Road Mathikere, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Zest Fitness Studio,"27th Main Road HSR Layout Sector 1, Bangalore",Show Number,4.6,1.0,Fitness-Studio
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",Show Number,4.1,1.0,Fitness-Studio
+Bon Ton Fitness,"108 3RD FLOOR 4TH Nagasandra, Bangalore",Show Number,4.9,1.0,Fitness-Studio
+Muscle Planet,"Laggere Main Road Laggere, Bangalore",Show Number,4.9,1.0,Fitness-Studio
+Vinnis Fitness,"Hesarghatta Main Road Hessargatta Main Road, Bangalore",Show Number,4.9,1.0,Fitness-Studio
+Curl Fit,"Ejipura Main Road Ejipura, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Befiter Fitness,"11th Main Road Mathikere, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Arch Physiotherapy And Rehabilitation,"Kundanahalli Kundalahalli, Bangalore",Show Number,4.8,1.0,Fitness-Studio
+Stayfit Hub,"Bannerghatta Road Bannerghatta Road, Bangalore",Show Number,4.9,1.0,Fitness-Studio
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",08401150426,5.0,211.0,Calisthenic-Gym
+Emerge Premium Fitness Studio,"S Kariyappa Road Jayanagar 7th Block, Bangalore",09054821932,4.8,119.0,Calisthenic-Gym
+Twistars Gymnastics,"Hrbr Layout, Bangalore",08460393915,4.9,120.0,Calisthenic-Gym
+Zest Fitness Studio Ect,"Neeladri Road Electronic City, Bangalore",Show Number,4.8,1.0,Calisthenic-Gym
+Zest Fitness Studio,"27th Main Road HSR Layout Sector 1, Bangalore",Show Number,4.6,1.0,Calisthenic-Gym
+Ramana Boxing Club,"Outer Ring Road Hrbr Layout, Bangalore",Show Number,4.4,620.0,Calisthenic-Gym
+Chaos Faktory,"15th Cross Road HSR Layout, Bangalore",Show Number,4.7,515.0,Calisthenic-Gym
+Fitness First (Eva Mall),"Brigade Road Brigade Road, Bangalore",Show Number,4.0,594.0,Calisthenic-Gym
+Health & Fitness Gym,"19 Khb Colony 5th Block Bengaluru Koramangala, Bangalore",Show Number,4.9,476.0,Calisthenic-Gym
+Fitness First,"100 Feet Inner Ring Road Koramangala, Bangalore",Show Number,3.9,584.0,Calisthenic-Gym
+Multifit Hrbr,"HRBR Layout Kalyan Nagar, Bangalore",Show Number,4.1,476.0,Calisthenic-Gym
+Multifit,"80 Feet Road HAL 2nd Stage Indiranagar, Bangalore",Show Number,4.1,329.0,Calisthenic-Gym
+Rise Fitness,"Hormavu Main Road Banaswadi, Bangalore",Show Number,4.9,264.0,Calisthenic-Gym
+Mani's Core Fit,"Malleswaram, Bangalore",Show Number,4.8,261.0,Calisthenic-Gym
+Fit Factory,"Uttarahalli Main Road Uttarahalli, Bangalore",Show Number,4.6,238.0,Calisthenic-Gym
+Maniac Lads Pvt Ltd,"Kagdaspura Main Road C V Raman Nagar, Bangalore",Show Number,4.9,205.0,Calisthenic-Gym
+Kineto Calisthenics Park,"Chikkalasandra Ramanjaneya Nagar, Bangalore",Show Number,5.0,200.0,Calisthenic-Gym
+Ace Fitness,"6th Block Banashankari 3rd Stage, Bangalore",Show Number,4.9,197.0,Calisthenic-Gym
+Fighter Club,"Begur Road, Bangalore",Show Number,5.0,190.0,Calisthenic-Gym
+Calibaf - The Calisthenics Studio,"7th Main Road Hrbr Layout, Bangalore",Show Number,4.9,191.0,Calisthenic-Gym
+Kranos Fitness Hub,"HSR Layout HSR Layout, Bangalore",Show Number,4.7,196.0,Calisthenic-Gym
+Karnos Fitness Hub,"Near It Park It Layout Sector 7 HSR Layout Sector 7, Bangalore",Show Number,4.7,194.0,Calisthenic-Gym
+The Movement Fitness Centre,"23rd Cross Road HSR Layout, Bangalore",Show Number,4.7,188.0,Calisthenic-Gym
+Bohofit Fitness Centre,"2nd Cross HSR Layout, Bangalore",Show Number,5.0,169.0,Calisthenic-Gym
+Nxtmove Fitness Pvt Ltd,"24th Main Road HSR Layout Sector 2, Bangalore",Show Number,4.7,143.0,Calisthenic-Gym
+Cult Fit,"Gangadhar Chetty Road Ulsoor, Bangalore",Show Number,4.1,162.0,Calisthenic-Gym
+Fusion Fitness,"5th Main Road Ittamadu, Bangalore",Show Number,4.8,132.0,Calisthenic-Gym
+Mind and Muscle Fitness,"Between Jp Nagar 7th Phase, Bangalore",Show Number,5.0,124.0,Calisthenic-Gym
+Republic Of Domination,"Panduranga Nagar, Bangalore",Show Number,4.9,108.0,Calisthenic-Gym
+Akhaada Crossfit Studio,"Anugraha Layout, Bangalore",Show Number,5.0,102.0,Calisthenic-Gym
+Fitness At Impact,"3rd Block Basaveshwara Nagar, Bangalore",,4.8,87.0,Calisthenic-Gym
+Bell Fitness and Play Arena,"Dodda Basti Main Road Sonnenahalli, Bangalore",Show Number,4.9,83.0,Calisthenic-Gym
+The Outfit Gym,"Sodepur Appareddipalya Bengaluru Indiranagar, Bangalore",Show Number,4.6,86.0,Calisthenic-Gym
+Muscle Garage,"Dr Rajkumar Road Rajajinagar 6th Block, Bangalore",Show Number,5.0,48.0,Calisthenic-Gym
+Get In Shape,"Seshadripuram, Bangalore",,4.9,8.0,Calisthenic-Gym
+Srushti Kala Mandira,"16th Jp Nagar 5th Phase, Bangalore",Show Number,4.3,8.0,Calisthenic-Gym
+Fitness Edge Equipments,"#44 CNR Complex Vinayaka Nagar Yelahanka, Bangalore",Show Number,3.8,5.0,Calisthenic-Gym
+The Cavalry Strength And Conditioning,"Street John'S Road St Johns Road, Bangalore",Show Number,4.4,4.0,Calisthenic-Gym
+Fit Equation Gym,"1st Phase Bharat Nagar, Bangalore",Show Number,5.0,2.0,Calisthenic-Gym
+Spartan Fitness,"Kogilu Main Road Kogilu, Bangalore",Show Number,4.0,2.0,Calisthenic-Gym
+Sri Gandha Gym,"Magadi Main Road Anjananagar, Bangalore",,5.0,1.0,Calisthenic-Gym
+Mr Chethan,"Mysore Road Kumbalgodu, Bangalore",Show Number,4.0,1.0,Calisthenic-Gym
+Mahi's Dance Club,"Ist Cross Road Bhagyalakshmi Avenue, Bangalore",Show Number,4.0,1.0,Calisthenic-Gym
+NB3 Fitness Centra gym,Bangalore,,3.0,1.0,Calisthenic-Gym
+Sculpt Fitness,"Rayakotta Road Old Rayakottah HUDCO, Hosur",Show Number,5.0,8.0,Calisthenic-Gym
+Hosur Sports Arena,"Krishnagiri Bye Pass Road Jalagandeswarar Nagar, Hosur",Show Number,4.5,140.0,Calisthenic-Gym
+New S P Fitness Studio,"Channel Road Ck Road, Channapatna",Show Number,4.9,19.0,Calisthenic-Gym
+MS FITNESS AND GYM,"Govt Boys College Main Road Kolar Fort, Kolar",Show Number,4.9,42.0,Calisthenic-Gym
+My Fit Fitness Centre,"Sidco Krishnagiri Courts, Krishnagiri",Show Number,5.0,55.0,Calisthenic-Gym
+Ajaya Golden Gym,"Old Bus Stand Road Pandavapura, Mandya",Show Number,5.0,1.0,Calisthenic-Gym
+POWER HOUSE GYM SLEEK FIT MACHINE MAKERS,"Al Badar Road Rajivnagar, Mysore",Show Number,4.4,160.0,Calisthenic-Gym
+Pure Gym,"New Kantharaj Urs Road Tk Layout, Mysore",Show Number,4.6,281.0,Calisthenic-Gym
+Heallth Club,"2nd Phase Vijaynagar 4th Stage, Mysore",Show Number,4.8,16.0,Calisthenic-Gym
+Supernova Fitness 365,"Gaddige Main Road Bogadi, Mysore",Show Number,5.0,5.0,Calisthenic-Gym
+G V Fitness Gym,"12 Bangalore Highways Karumbalai Karuppur, Salem",Show Number,4.9,64.0,Calisthenic-Gym
+Akhils Ak Fitness,"Dr Subbarayan Road Agraharam, Salem",Show Number,5.0,3.0,Calisthenic-Gym
+K A 13 Fitness,"Dasarakoppalu Circle Salagame Road, Hassan",09724265594,5.0,53.0,Calisthenic-Gym
+Ironstone Gym,"M G Road Bm Road, Hassan",Show Number,4.6,98.0,Calisthenic-Gym
+Reckon Dance Zumba & Fitness Studio LLP,"Dr. Shivaramkaranth Nagar Mcehslayout Hegde Nagar, Bangalore",07490847214,4.7,101.0,Dance-Zumba-Studio
+Zumba Fitness Dance - Fox Fire Dance Studio,"VMR Complex Munekollal, Bangalore",,-,,Dance-Zumba-Studio
+Kink Moirai Dance & Zumba Fitness Studio,"Dasarahalli Main Road Hebbal, Bangalore",Show Number,5.0,34.0,Dance-Zumba-Studio
+Moumitas' Zumba and Freestyle Dance Studio,"Vishwajit Layout Vignana Nagar, Bangalore",,4.8,20.0,Dance-Zumba-Studio
+D'senoras - Zumba & Dance Fitness Studio,"Brindavan Layout Road Horamavu, Bangalore",Show Number,4.3,3.0,Dance-Zumba-Studio
+Resuel Bank Studio Zin Zumba And Dance Fitness Studio,"Hosur Road Koramangala, Bangalore",Show Number,-,,Dance-Zumba-Studio
+Dance &Zumba Studio,"Pragati Puram Habibulla Nagar, Raebareli",,4.8,26.0,Dance-Zumba-Studio
+8e1 Dance Studio,"Bannerghatta Road Arekere Village, Bangalore",Show Number,4.9,91.0,Dance-Zumba-Studio
+SR Dance and Fitness Studio,"Gottigere BG Road Gottigere, Bangalore",Show Number,-,,Dance-Zumba-Studio
+Dance Studio & Zumba Center,"Nagla Masani Pratibha Colony, Aligarh",,4.0,2.0,Dance-Zumba-Studio
+Dance To Fit Zumba Studio,"Tatabad 3rd Street Tatabad, Coimbatore",,4.8,44.0,Dance-Zumba-Studio
+Dance Beat(Dance & Zumba Fitness Studio),"Sector 12 Chopasni Housing Board, Jodhpur",Show Number,4.6,6.0,Dance-Zumba-Studio
+Dance Work Studio & Zumba Classes,"Tehri Visthapit Colony, Haridwar",,-,,Dance-Zumba-Studio
+Dance Academy Zumba Studio Vadodara Baroda,"Sun Pharma Road Bhaili, Vadodara",Show Number,4.0,2.0,Dance-Zumba-Studio
+Dance with me dance & zumba studio,"Mehsana Industrial Estate, Mehsana",Show Number,-,,Dance-Zumba-Studio
+Dance Zumba Aerobics Instructor,Bangalore,Show Number,-,,Dance-Zumba-Studio
+Private Dance yoga zumba trainer,"BTM Lake Road BTM Layout 2nd Stage, Bangalore",Show Number,-,,Dance-Zumba-Studio
+Saraswathi Risen Eternal Zumba Dance Yoga Aerobics Fitness Academy,"Hosur Main Road Electronic City Phase 2, Bangalore",Show Number,4.7,41.0,Dance-Zumba-Studio
+Machas Zumba & Dance Fitness,"Vmr Complex 4th Floor Kundalahalli, Bangalore",Show Number,4.9,520.0,Dance-Zumba-Studio
+Santhus Zumba Dance And Yoga,"5th Cross C V Raman Nagar, Bangalore",Show Number,4.9,127.0,Dance-Zumba-Studio
+Alpha Zumba Dance Fitness Centre,"Double Road9th Main Road Ramamurthy Nagar, Bangalore",Show Number,4.5,42.0,Dance-Zumba-Studio
+ZUMBA & DANCE FITNESS,"Ayyappa Nagar-Krishnarajapura, Bangalore",Show Number,5.0,1.0,Dance-Zumba-Studio
+Zumba Fitness And Dance,"Dwaraka Nagar Bengaluru Nms Layout, Bangalore",Show Number,4.0,2.0,Dance-Zumba-Studio
+Bollywood Western Zumba Dance Academy,"Sonnenahalli Krishnarajapura Bengaluru K Dommasandra, Bangalore",,-,,Dance-Zumba-Studio
+Aerobics Zumba Fitness Program Marathon and Dance (Closed Down),"Hennur Bagalur Road Patel Nanjundappa Layout, Bangalore",,-,,Dance-Zumba-Studio
+Umesh Studio Dance & Zumba Fitness Classes,"B Wing 3rd Floor Patni Chowk, Washim",Show Number,4.7,9.0,Dance-Zumba-Studio
+Aryashiva School Of Dance and Aerobic & Zumba Fitnes Studio,"Gowri Kaluve Chikmagalur Fort, Chikmagalur",09972950368,4.7,20.0,Dance-Zumba-Studio
+Funk Fusion Dance and Zumba Fitness Studio,"Gulmohor Road Savedi, Ahmednagar",08460456037,4.2,17.0,Dance-Zumba-Studio
+Kommotion Studio Of Dance Zumba And Fitness,"Guru Nanak Vihar Race Course, Dehradun",Show Number,4.8,161.0,Dance-Zumba-Studio
+Rise and Shine Dance Zumba Aerobics Yoga Studio,"Street No 2 Lalammagarden Manikonda, Hyderabad",09054750518,4.8,301.0,Dance-Zumba-Studio
+Groove Galaxy Dance And Zumba Fitness Studio Lucknow,"Wazir Hussain Gokhale Vihar Marg, Lucknow",08123170861,4.9,12.0,Dance-Zumba-Studio
+The Women S Power Zumba & Dance Studio,"Ramna Kharbi, Nagpur",Show Number,4.8,74.0,Dance-Zumba-Studio
+Rise and Shine Dance Zumba Aerobics Yoga Studio,"Street No:2 Manikonda, Hyderabad",08197651194,4.8,301.0,Dance-Zumba-Studio
+Marvelouz Zumba & Fitness Studio,"Old Alwal-Alwal, Hyderabad",Show Number,4.8,90.0,Dance-Zumba-Studio
+Kalpataa -power Yoga Zumba and Dance Studio,"Sanatana Eternal 1st Floor Himayat Nagar, Hyderabad",Show Number,4.6,250.0,Dance-Zumba-Studio
+Zumba Aerobics Fitness & D Creation Dance Studio,"Gurudwara Road Model Town, Panipat",Show Number,4.0,3.0,Dance-Zumba-Studio
+Rocky Dance Studio & Zumba Fitness Class,"Ground Floor Dilawar Gunj Mangal Hat East, Hyderabad",,-,,Dance-Zumba-Studio
+Isha Space For Arts,"Judicial Layout Gkvk, Bangalore",Show Number,4.6,31.0,Dance-Zumba-Studio
+Raj Dance Academy,"Kengeri Satelite Town, Bangalore",,-,,Dance-Zumba-Studio
+YADHUVEER DANCE ACADEMY,"Basaveshwara Nagar, Bangalore",Show Number,2.5,2.0,Dance-Zumba-Studio
+Studio Of Passion,"Royal Mart Building 2nd Floor Padmanabhanagar, Bangalore",,4.8,4.0,Dance-Zumba-Studio
+Zumba With Royston Whitefield,"Whitefield Whitefield Main Road, Bangalore",Show Number,4.0,2.0,Dance-Zumba-Studio
+Guevaric Dancers,"7th Cross Wilson Garden, Bangalore",Show Number,4.8,8.0,Dance-Zumba-Studio
+Zumba Fitness Indiranagar,"100 Feet Road Indiranagar Indiranagar, Bangalore",Show Number,3.8,6.0,Dance-Zumba-Studio
+Dancing Butterflies Zumba,"Gandhi Bazaar main road Basavanagudi, Bangalore",Show Number,3.0,1.0,Dance-Zumba-Studio
+Dance Planet,"HSR LAYOUT SECTOR 5, Bangalore",Show Number,2.5,1.0,Dance-Zumba-Studio
+Zumba,"12th Main Road BTM Layout 2nd Stage, Bangalore",Show Number,-,,Dance-Zumba-Studio
+Bellez Dance And Fitness Academy,"Koramangala 1 Block Koramangala, Bangalore",,-,,Dance-Zumba-Studio
+Rdi Dance Studio,"BTM Layout 2nd Stage, Bangalore",Show Number,-,,Dance-Zumba-Studio
+Kyokushin Karate Mohan Dojo,"15th J Cross Road Bns Layout, Bangalore",Show Number,4.8,16.0,Karate-Dojo
+Shaolin Karate - Okajima Dojo,"Jakkur Plantation, Bangalore",Show Number,4.3,3.0,Karate-Dojo
+Kyokushin Karate Anil Dojo Academy,"12th Main Road Hebbal, Bangalore",Show Number,4.7,10.0,Karate-Dojo
+Jska Karate Dojo,"Kothnur Village Main Road Jp Nagar, Bangalore",Show Number,4.6,19.0,Karate-Dojo
+Shorin-Ryu Shobu-Kan Karate Dojo,"Annasandrapalya Extension, Bangalore",Show Number,4.7,8.0,Karate-Dojo
+Arakawa Wadokai Karate Do,"Bg Road Krishna Layout Extension, Bangalore",Show Number,3.0,2.0,Karate-Dojo
+Shotokan KARATE-DOJO,"KVP Nagat 2nd Stage Jalahalli East, Bangalore",Show Number,-,,Karate-Dojo
+Kyokushin Full Contact Karate Dojo (Hpka),"Inner Cir Road Channasandra, Bangalore",,-,,Karate-Dojo
+The Dojo Karate Center,"Nagareshwara Nagenahalli Main Road K Narayanapura, Bangalore",,2.5,2.0,Karate-Dojo
+Karate Dojo,"Rajupeta Colony Ramalayam, Bhadrachalam",Show Number,5.0,1.0,Karate-Dojo
+Karate Dojo Moga,"Basti Gobindgarh Road Nanak Pura, Moga",Show Number,4.6,5.0,Karate-Dojo
+Karate Dojo Den,"Balaji Mandir Pally Sushmapally, Kharagpur",Show Number,4.6,11.0,Karate-Dojo
+The Karate Dojo,"Sitamani Sita Manimain Road, Korba",Show Number,4.3,3.0,Karate-Dojo
+Dojo De Santa Cruz,"Bondir Wado Panaji Santa Cruz, Goa",Show Number,5.0,26.0,Karate-Dojo
+Karate Dojo & Dream of Dance,"Bhagwat Nagar Chauraha, Patna",Show Number,4.9,1.0,Karate-Dojo
+Karate Dojo & Dream Of Dance Class,"Bhootnath Road Chitragupta Nagar, Patna",Show Number,4.9,136.0,Karate-Dojo
+Karate Dojo (Office) Sensei Dinesh Choudhary,"Shop. No- 125 Ganesh Nagar Vistar Jaipur Jhotwara, Jaipur",,4.9,15.0,Karate-Dojo
+Karate Dojo,"S Lachit Nagar Main Road, Guwahati",,3.6,7.0,Karate-Dojo
+The Karate Dojo ( Martial-arts Academy),"VLM English School Sunder Nagar, Raipur-Chhattisgarh",Show Number,4.6,5.0,Karate-Dojo
+Karate Dojo Classes,"G.t. Road Etah Railway Road, Etah",Show Number,-,,Karate-Dojo
+karate dojo,"ajmer Nagra, Ajmer",Show Number,3.5,2.0,Karate-Dojo
+Karate Dojo Jaysree Sangha,"Joyshree Sangha Kalitala Kolkata Bansdroni, Kolkata",Show Number,5.0,9.0,Karate-Dojo
+The Karate Dojo Academy,"Shivanand Nagar Road Khamtarai, Raipur-Chhattisgarh",,-,,Karate-Dojo
+Karate Dojo (Closed Down),"Nashik Nagar Thirunindravur, Chennai",,-,,Karate-Dojo
+Karate Dojo Sensei Dinesh Choudhary,"14 Narsi Vihar Bajrang Dwar Jhotwara, Jaipur",,-,,Karate-Dojo
+Karate Dojo Club,"Bhagwat Nagar Road Kankarbagh, Patna",Show Number,-,,Karate-Dojo
+Karate Dojo Okinawan Shorin Ryu -Udun Ti Kobudo Jutsu,"Kolakkad, Kannur",Show Number,-,,Karate-Dojo
+Vel Dojo,"Mathikere Market Road Mathikere, Bangalore",Show Number,3.9,11.0,Karate-Dojo
+Karate Class Indian Unique Karate Association (Shotokan Style),"Kereguddadahalli, Bangalore",Show Number,5.0,15.0,Karate-Dojo
+Karate Trainer,Bangalore,Show Number,-,,Karate-Dojo
+Seibudo Kai Karate Do Training School,"K. R. Road Jayanagar, Bangalore",Show Number,4.7,21.0,Karate-Dojo
+Karate Academy,"Kodigehalli Main Road Krishnarajapuram, Bangalore",Show Number,5.0,94.0,Karate-Dojo
+Karate And Martial Arts Classes Nelamangala,"Pes Vidya Kendra Nelamangala Town Nelamangala, Bangalore",,3.0,1.0,Karate-Dojo
+Karate Guru,"1 Street Main Road Ilyas Nagar, Bangalore",Show Number,4.8,31.0,Karate-Dojo
+Karate Association Jka India Karnataka,"Cil Layout, Bangalore",Show Number,4.1,10.0,Karate-Dojo
+Karate & Fitness Classes,"Virat Nagar-Bommanahalli, Bangalore",,4.7,12.0,Karate-Dojo
+Karate Class (Shotokan),"J.p Nagar 6th Jp Nagar, Bangalore",Show Number,4.3,26.0,Karate-Dojo
+Karate Summer Camp,"g s complex kattigenhalli Kattigenahalli, Bangalore",Show Number,-,,Karate-Dojo
+Karate Kick,"Heritage Noah's Ark Sarjapura, Bangalore",Show Number,5.0,3.0,Karate-Dojo
+Fitness Race,"Dinnur Main Road Rt Nagar, Bangalore",08105032618,4.5,382.0,Kickboxing-Studio
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",08401150426,5.0,211.0,Kickboxing-Studio
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",08511066401,4.6,367.0,Kickboxing-Studio
+Refinas Bangalore,"Richmond Rd Ashoknagar, Bangalore",09845468255,5.0,122.0,Kickboxing-Studio
+Furyinc.Co,Bangalore,09980116072,4.4,4.0,Kickboxing-Studio
+Rba Of Arts,"Beml Layout Rajarajeshwari Nagar, Bangalore",09980539404,4.5,65.0,Kickboxing-Studio
+Zest Fitness Studio,"HSR Layout Sector 7, Bangalore",Show Number,4.7,2.0,Kickboxing-Studio
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",Show Number,4.1,1.0,Kickboxing-Studio
+Befiter Fitness,"11th Main Road Mathikere, Bangalore",Show Number,4.8,1.0,Kickboxing-Studio
+Fitness Honor,"Arakere, Bangalore",Show Number,4.9,1.0,Kickboxing-Studio
+We Fitness Health And Wellness Centre,"23rd Main Jp Nagar 5th Phase, Bangalore",Show Number,4.4,1.0,Kickboxing-Studio
+Cult Fit,"19th Main Road Hsr Layout Sector 1, Bangalore",Show Number,4.5,1.0,Kickboxing-Studio
+Fitness Zone,"Marathahalli Sarjapur Road HSR Layout, Bangalore",Show Number,4.8,871.0,Kickboxing-Studio
+Goldstar Fitness,"1st Main Road Venkateshwara Layout, Bangalore",Show Number,4.8,841.0,Kickboxing-Studio
+Evolution Fitness,"14th Cross Kumaraswamy Layout 2 Stage, Bangalore",Show Number,4.7,815.0,Kickboxing-Studio
+Reach Fitness,"Opposite BMTC Bus Stand Chandra Layout, Bangalore",Show Number,4.6,832.0,Kickboxing-Studio
+Accolades Batminton and Sports Academy,"8th Mile Peenya Nagasandra, Bangalore",Show Number,4.2,892.0,Kickboxing-Studio
+Turbo Fitness Studio,"Btm 6th Stage Hulimavu, Bangalore",Show Number,4.6,792.0,Kickboxing-Studio
+Kia-kaha Mma Academy,"1st Cross Road Koramangala, Bangalore",Show Number,4.6,775.0,Kickboxing-Studio
+I Fitness,"K H Road Shanthinagar, Bangalore",Show Number,4.3,796.0,Kickboxing-Studio
+Beast Fitness Studio,"Rachenahalli Bengaluru Thanisandra, Bangalore",Show Number,4.9,678.0,Kickboxing-Studio
+Den.2.fit,"80 Feet Road Koramangala, Bangalore",Show Number,4.8,689.0,Kickboxing-Studio
+The Muscle Factory Unisex Gym,"60feet Road Brookefield, Bangalore",Show Number,4.6,717.0,Kickboxing-Studio
+Fitness Tycoon,"22nd Cross Hsr Layout Sector 2, Bangalore",,4.5,709.0,Kickboxing-Studio
+Fitrig Gym,"Manipalcounty Road Bommanahalli, Bangalore",Show Number,4.6,687.0,Kickboxing-Studio
+Fitness Edge Sports Club,"Thindlu Main Road Vidyaranyapura, Bangalore",Show Number,4.9,643.0,Kickboxing-Studio
+Fitness Honor Devarachikkanahalli,"2nd Cross Road Bannerghatta Road, Bangalore",Show Number,4.8,634.0,Kickboxing-Studio
+Dumbbells Gym,"Electronic City, Bangalore",Show Number,4.6,622.0,Kickboxing-Studio
+Shree Tejaswi Fitness Center,"9th Main Rajajinagar 2nd Stage, Bangalore",Show Number,4.8,581.0,Kickboxing-Studio
+Satva Fitness,"Munnekollal Marathahalli, Bangalore",Show Number,3.9,702.0,Kickboxing-Studio
+Ramana Boxing Club,"Outer Ring Road Hrbr Layout, Bangalore",Show Number,4.4,620.0,Kickboxing-Studio
+Indian Fitness Fight Club,"Mg Layout Mullur, Bangalore",Show Number,4.9,555.0,Kickboxing-Studio
+Fitness Edge,"Kodigehalli Police Station Kodigehalli, Bangalore",Show Number,4.9,554.0,Kickboxing-Studio
+Absloute Fitness,"16th Main Rajajinagar 3rd Block, Bangalore",Show Number,4.9,554.0,Kickboxing-Studio
+Poundd Fitness,"Old Airport Road Old Airport Road, Bangalore",Show Number,4.2,619.0,Kickboxing-Studio
+Game On Fitness,"Marathahalli Sarjapur Road Kaikondrahalli, Bangalore",Show Number,4.8,535.0,Kickboxing-Studio
+T99 Fitness,"HORAMAVU MAIN ROAD Horamavu, Bangalore",Show Number,4.5,547.0,Kickboxing-Studio
+Bangalore Boxing Club,"Vyalikaval Hbcs Layout Nagawara, Bangalore",Show Number,4.6,521.0,Kickboxing-Studio
+Gym Fitness Hub,"Hebbagodi, Bangalore",Show Number,4.8,493.0,Kickboxing-Studio
+Crossfit,"Anekal Main Road Tavarekere Road, Bangalore",,4.8,486.0,Kickboxing-Studio
+Health & Fitness Gym,"19 Khb Colony 5th Block Bengaluru Koramangala, Bangalore",Show Number,4.9,476.0,Kickboxing-Studio
+Fitness First,"100 Feet Inner Ring Road Koramangala, Bangalore",Show Number,3.9,584.0,Kickboxing-Studio
+Revive - The Elite Fitness Club,"Seegehalli Road Chaitanya Ananya, Bangalore",Show Number,4.9,458.0,Kickboxing-Studio
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",08511066401,4.6,367.0,Pilates-Studio
+Reboot Fitness and Dance Studio,"Ombr Layout-Banaswadi, Bangalore",09980229077,4.5,39.0,Pilates-Studio
+Fitness Empire,"Outer Ring Road Marathahalli, Bangalore",Show Number,4.7,1.0,Pilates-Studio
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",Show Number,4.1,1.0,Pilates-Studio
+Therige Bhavana,"Vinayaka Layout Nagarbhavi 2nd Stage, Bangalore",Show Number,4.0,1.0,Pilates-Studio
+We Fitness Health And Wellness Centre,"23rd Main Jp Nagar 5th Phase, Bangalore",Show Number,4.4,1.0,Pilates-Studio
+V K Sports,"Kaggadasapura Main Road Kagadasspura, Bangalore",Show Number,3.9,1.0,Pilates-Studio
+Fit City Gym,"8th Cross Road C V Raman Nagar, Bangalore",Show Number,5.0,922.0,Pilates-Studio
+Dynamic Fitness,"Bannerghatta Main Road BTM Layout 2nd Stage, Bangalore",Show Number,4.9,782.0,Pilates-Studio
+Zela Luxury Health Clubs,"Residency Road Residency Road, Bangalore",Show Number,4.0,910.0,Pilates-Studio
+Plej Fitness,"Green Glen Layout Bellandur, Bangalore",Show Number,4.0,884.0,Pilates-Studio
+Dumbbells Gym,"Electronic City, Bangalore",Show Number,4.6,622.0,Pilates-Studio
+Xna Fitness,"Yellanahalli, Bangalore",Show Number,4.7,608.0,Pilates-Studio
+Poundd Fitness,"Old Airport Road Old Airport Road, Bangalore",Show Number,4.2,619.0,Pilates-Studio
+Muscle Tech,"Guddahalli Thammenahalli Village, Bangalore",Show Number,4.8,520.0,Pilates-Studio
+Fitness Ace,"Lakshmi Srinivasa Complex Rt Nagar, Bangalore",Show Number,4.3,569.0,Pilates-Studio
+Apple Fitness,"5th A Cross Kalyan Nagar, Bangalore",Show Number,4.1,583.0,Pilates-Studio
+Fitness First (Eva Mall),"Brigade Road Brigade Road, Bangalore",Show Number,4.0,594.0,Pilates-Studio
+Transformers An Athletic Lab,"16th Main Road BTM Layout 2nd Stage, Bangalore",Show Number,4.6,512.0,Pilates-Studio
+Fitness First,"100 Feet Inner Ring Road Koramangala, Bangalore",Show Number,3.9,584.0,Pilates-Studio
+Addict Fitness,"80 Feet Road Kathriguppe, Bangalore",Show Number,4.9,448.0,Pilates-Studio
+Stayfit Health & Fitness World Pvt Ltd,"30th Cross Jayanagar 4th Block, Bangalore",Show Number,4.4,462.0,Pilates-Studio
+Rapid Sport Fitness,"Guava Garden KHB Road Koramangala 5th Block, Bangalore",Show Number,4.9,387.0,Pilates-Studio
+Talwalkars Gym,"Bellary Road Sadashivanagar, Bangalore",Show Number,3.9,478.0,Pilates-Studio
+Moveza Fitness,"1st Main Road Rajajinagar, Bangalore",Show Number,4.5,401.0,Pilates-Studio
+Changeover Fitness Studio,"Govindaraj Nagar-Vijaynagar, Bangalore",Show Number,4.4,372.0,Pilates-Studio
+Rhythmic Feet Fitness and Dance,"1st Main Koramangala 8th Block, Bangalore",Show Number,4.6,354.0,Pilates-Studio
+Bodhi School Of Yoga,"Hoysala Nagar-Indiranagar, Bangalore",Show Number,4.9,322.0,Pilates-Studio
+Siddhi Fitness Studio,"2nd Floor Jp Nagar 7th Phase, Bangalore",Show Number,5.0,308.0,Pilates-Studio
+Fit Squad,"Banaswadi Main Road Banaswadi, Bangalore",Show Number,4.5,337.0,Pilates-Studio
+Barbellhouse,"3rd Main Road Rajarajeshwari Nagar, Bangalore",Show Number,5.0,302.0,Pilates-Studio
+Evolve Fitness Studio,"9th Crs Jayanagar 9th Block, Bangalore",Show Number,4.3,348.0,Pilates-Studio
+Dhrutham Studio Of Dance,"Ramamurthy Nagar, Bangalore",Show Number,4.9,300.0,Pilates-Studio
+Chisel Fitness,"80 Feet Road Vijayanagar, Bangalore",Show Number,4.4,316.0,Pilates-Studio
+Studio Venus,"24th Main Jp Nagar, Bangalore",Show Number,4.5,299.0,Pilates-Studio
+S 4 Fitness,"100 Feet Main Road Jayanagar 2nd Block, Bangalore",Show Number,4.1,317.0,Pilates-Studio
+Mani's Core Fit,"Malleswaram, Bangalore",Show Number,4.8,261.0,Pilates-Studio
+Feminine Gym,"Kammanahalli, Bangalore",Show Number,4.8,259.0,Pilates-Studio
+Maxburn Fitness Studio & Gym,"6th Block Kormangala Koramangala 6th Block, Bangalore",Show Number,4.6,249.0,Pilates-Studio
+Vriddhi Fitness And Wellness,"Bannerghatta Main Road Bannerghatta Road, Bangalore",Show Number,4.3,254.0,Pilates-Studio
+GROUP EX FITNESS,"80Feet RT Nagar Main Road Rt Nagar, Bangalore",Show Number,4.6,237.0,Pilates-Studio
+Step N Move Dance Academy,"Kothanur Post Office Road Kothanur, Bangalore",Show Number,4.8,226.0,Pilates-Studio
+Cross Fit,"Jindal, Bangalore",Show Number,4.4,223.0,Pilates-Studio
+Shadowz One Dance And Fitness Studio,"Amruthalli Main Road Jakkur Jakkur, Bangalore",Show Number,4.7,203.0,Pilates-Studio
+Fiesta Zumba Fitness Studio,"Devarchikkanahalli Road Chikkanahalli Road, Bangalore",Show Number,4.5,203.0,Pilates-Studio
+Tiger Gym,"Anjanapura, Bangalore",Show Number,4.9,180.0,Pilates-Studio
+Republic Fitness,"Vasanthapura Main Road Vasanthpura, Bangalore",Show Number,4.7,169.0,Pilates-Studio
+Beyond Fitness,"Ms Ramaiah Road Mathikere, Bangalore",Show Number,4.8,154.0,Pilates-Studio
+Adapt Fitness,"Pottery Road Frazer Town, Bangalore",Show Number,4.5,163.0,Pilates-Studio
+Group Fitness Studio,"Kalyan Nagar, Bangalore",Show Number,4.9,148.0,Pilates-Studio
+R K Fitness Gym,"3rd Cross Umarbagh Layout, Bangalore",Show Number,4.6,156.0,Pilates-Studio
+Cult Fit,"Konanakunte Main Road Konanakunte Cross, Bangalore",Show Number,3.6,196.0,Pilates-Studio
+Pilates Circle By Cult,"Koramangala, Bangalore",Show Number,4.9,141.0,Pilates-Studio
+My Beat Dance And Fitness Studio,"Manipal County Road Aecs B Block, Bangalore",Show Number,4.8,141.0,Pilates-Studio
+I3 Fitness,"Nagarabhavi Ring Road Nagarbhavi 2nd Stage, Bangalore",Show Number,4.3,157.0,Pilates-Studio
+Pilates for Wellbeing,"Kasturba Cross Road Lavelle Road, Bangalore",Show Number,4.6,146.0,Pilates-Studio
+Highline Fitness 24x7,"R T Nagar Main Road Rt Nagar, Bangalore",Show Number,4.3,156.0,Pilates-Studio
+Sparsh Yoga Centre,"24th Main Jp Nagar 6th Phase, Bangalore",Show Number,4.8,130.0,Pilates-Studio
+Horse Fitness,"Basaveshwaranagar Main Road Basaveshwara Nagar, Bangalore",Show Number,4.6,133.0,Pilates-Studio
+Synergy Multi Aerobics Studio,"Teachers Colony-Koramangala, Bangalore",Show Number,4.9,124.0,Pilates-Studio
+Haadee Fitness Club,"9th Main Road Kalyan Nagar, Bangalore",Show Number,4.4,138.0,Pilates-Studio
+Purple Pilates,"HSR Sector5/jakkasandra Koramangala 1st Block, Bangalore",Show Number,5.0,117.0,Pilates-Studio
+KM3 Platinum Fitness,"Peenya 2nd Stage Hegganahalli Cross, Bangalore",Show Number,4.9,113.0,Pilates-Studio
+SWEAT GROUP EX,"B Block Sahakara Nagar, Bangalore",Show Number,3.8,140.0,Pilates-Studio
+Haadee Fitness Floor & Gym,"Hormavu Main Road Banaswadi, Bangalore",Show Number,4.6,112.0,Pilates-Studio
+H2o Studioz,"Marathahalli Outer Ring Road Marathahalli, Bangalore",Show Number,5.0,98.0,Pilates-Studio
+Breathe Wellness,"Puttenahalli Main Road Jp Nagar 7th Phase, Bangalore",Show Number,4.8,101.0,Pilates-Studio
+Arivu School Of Yoga,"2nd Cross Dasarahalli Hebbal, Bangalore",Show Number,5.0,94.0,Pilates-Studio
+Dr. Pilates Studio,"Horamavu Main Road Banaswadi, Bangalore",Show Number,4.9,89.0,Pilates-Studio
+Palladium Dance Company,"17th Main Road Koramangala 5th Block, Bangalore",Show Number,4.7,91.0,Pilates-Studio
+Yug Yoga,"14th Main Road Sahakara Nagar, Bangalore",Show Number,4.6,91.0,Pilates-Studio
+Fille Fitness Only Ladies Gym,"Mosque Road Frazer Town, Bangalore",Show Number,4.2,96.0,Pilates-Studio
+Coxbull Fitness,"9th Main Road Babusapalya, Bangalore",,4.8,81.0,Pilates-Studio
+Tejas Studio,"Sarjapur Road Attibele, Bangalore",Show Number,4.9,77.0,Pilates-Studio
+Pilates Hub,"27th Main Road Hsr Layout, Bangalore",Show Number,4.9,75.0,Pilates-Studio
+Equinox Fitness Studio,"80 Feet Road Rt Nagar, Bangalore",Show Number,4.2,86.0,Pilates-Studio
+Yog Gokul,"Off 80 Feet Road Koramangala 4th Block, Bangalore",Show Number,4.8,74.0,Pilates-Studio
+Workout Hub,"4th Stage Basaveshwara Nagar, Bangalore",Show Number,4.3,80.0,Pilates-Studio
+Swami Vivekananda Yoga Kuteera,"Sahayadri Layout Sidedahalli, Bangalore",Show Number,5.0,68.0,Pilates-Studio
+Pilates Lab,"1st Main Road Byataranyanapura, Bangalore",Show Number,4.9,67.0,Pilates-Studio
+Nature Essential S Pa and Salon,"Nagarbhavi, Bangalore",Show Number,4.6,68.0,Pilates-Studio
+Leap Yoga & Fitness,"Robertson Road Frazer Town, Bangalore",Show Number,5.0,60.0,Pilates-Studio
+Adhyatma Yoga,"26th Main Jayanagar 9th Block, Bangalore",Show Number,4.4,67.0,Pilates-Studio
+Corepilates,"3rd Floor RMV Extension 2nd Stage, Bangalore",Show Number,4.7,60.0,Pilates-Studio
+Sri Acharya Yoga,"Dollars Colony-RMV 2nd Stage, Bangalore",Show Number,4.9,54.0,Pilates-Studio
+Mrudavae Yogashala,"Panathur Post Bellandur, Bangalore",Show Number,4.8,55.0,Pilates-Studio
+The Piilates Studio,"Sair Bagh Cunningham Road, Bangalore",Show Number,4.0,65.0,Pilates-Studio
+Reform Pilates Studio,"Hennur Bagalur Main Road Byrathi, Bangalore",Show Number,4.6,51.0,Pilates-Studio
+Stance Active,"22nd Cross Roadclub Road Hsr Layout, Bangalore",Show Number,5.0,46.0,Pilates-Studio
+Taekwondo Academy Of,"18th Cross Road Nagaraja Garden, Bangalore",,5.0,1.0,Taekwondo-Academy
+Taekwondo International Academy,"6th Cross Road Kr Layout, Bangalore",,-,,Taekwondo-Academy
+Vicktors Taekwondo Academy And Gym,"Bengaluru Kalkere Bengaluru Dodda Kempaiah Layout, Bangalore",,4.8,2.0,Taekwondo-Academy
+Shankar Taekwondo Academy,"Muthyalamma Temple Road Doddaballapur, Bangalore",Show Number,4.5,18.0,Taekwondo-Academy
+Sun Taekwondo Academy,"Vinayaka Layout-Nagarbhavi, Bangalore",Show Number,5.0,86.0,Taekwondo-Academy
+Kwans Taekwondo Academy,"Hill View Residency Road Uttarahalli, Bangalore",Show Number,4.9,96.0,Taekwondo-Academy
+Deccan Taekwondo Academy,"Rrmp Extension K H Road, Bangalore",Show Number,4.8,250.0,Taekwondo-Academy
+Wings Taekwondo Academy,"Banaswadi, Bangalore",Show Number,4.9,39.0,Taekwondo-Academy
+Skanda Taekwondo Academy,"#121 2nd Main Road Sahakara Nagar, Bangalore",Show Number,5.0,212.0,Taekwondo-Academy
+CTA Taekwondo And Fitness Academy,"2nd Cross GNR Gardens Babusapalya, Bangalore",Show Number,5.0,152.0,Taekwondo-Academy
+Asian Taekwondo Academy And Fitness Centre,"Rt Nagar 5th Main Road Rt Nagar, Bangalore",Show Number,4.9,47.0,Taekwondo-Academy
+Sri Sai Taekwondo Academy,"6th Cross Road Kogilu, Bangalore",,5.0,22.0,Taekwondo-Academy
+Taureaux Taekwondo Academy,"Hanumantha Nagar-Banashankari, Bangalore",Show Number,5.0,82.0,Taekwondo-Academy
+Skanda Taekwondo Academy,"Byataranyanapura, Bangalore",,5.0,207.0,Taekwondo-Academy
+Kims Taekwondo Academy,"7th Main Road Subbanapalaya, Bangalore",,4.7,18.0,Taekwondo-Academy
+Jpl Taekwondo Academy,"Main Road Golahalli, Bangalore",Show Number,4.9,27.0,Taekwondo-Academy
+M-Spirit Taekwondo Academy,"Rayasandra Main Road Naganathapura, Bangalore",Show Number,5.0,29.0,Taekwondo-Academy
+Chanakyas Taekwondo And Fitness Academy,"Vidyaranyapura, Bangalore",Show Number,4.9,99.0,Taekwondo-Academy
+Shree Taekwondo Academy,"1st Sector Hsr Layout, Bangalore",Show Number,4.2,30.0,Taekwondo-Academy
+Taureaux Taekwondo Academy Btm,"BTM Layout 2nd Stage, Bangalore",Show Number,4.4,40.0,Taekwondo-Academy
+Wrm Taekwondo Academy And Fitness Centre,"Victoria Layout Victoria Road, Bangalore",Show Number,4.6,31.0,Taekwondo-Academy
+Manju Taekwondo Academy,"Thigala Chowdadenahalli Dommasandra, Bangalore",Show Number,4.9,6.0,Taekwondo-Academy
+R W T F Taekwondo Academy,"Yelahanka, Bangalore",Show Number,3.5,9.0,Taekwondo-Academy
+Ecseed Taekwondo Academy,"Agb Layout Chikkabanavara Bengaluru Chikbanavara, Bangalore",Show Number,4.8,22.0,Taekwondo-Academy
+Cures Foundation And Chanakya's Taekwondo And Fitness Academy (R),"Sai Baba Temple Next Vidyaranyapura, Bangalore",Show Number,5.0,5.0,Taekwondo-Academy
+S I Central Taekwondo Academy,"4th Cross Road Vijayanagar, Bangalore",Show Number,4.9,48.0,Taekwondo-Academy
+S I Central Taekwondo Academy,"Opp.Hampinagar Bus Stand Rpc Layout, Bangalore",,4.9,30.0,Taekwondo-Academy
+Phoenix Taekwondo Academy,"13th Cross Road Goripalya, Bangalore",,4.7,7.0,Taekwondo-Academy
+Fighters Taekwondo Academy,"Muthyalamma Temple Complex Doddaballapura Doddaballapur, Bangalore",Show Number,4.9,20.0,Taekwondo-Academy
+Global Mission Taekwondo Academy (Closed Down),"Nandanam Colony Banaswadi Main Road, Bangalore",,4.9,136.0,Taekwondo-Academy
+Karnataka Sports And Taekwondo Academy,"2nd Stage Rajajinagar, Bangalore",Show Number,5.0,2.0,Taekwondo-Academy
+Star Taekwondo Academy,"Netajinagar T Dasarahalli, Bangalore",Show Number,4.9,13.0,Taekwondo-Academy
+Taureaux Taekwondo Academy JP Nagar (Closed Down),"Kothnur Main Road Jp Nagar 7th Phase, Bangalore",,5.0,8.0,Taekwondo-Academy
+Aryans Taekwondo Academy,"Virgonagar, Bangalore",Show Number,5.0,15.0,Taekwondo-Academy
+Nac Taekwondo Academy,"16th B Cross Road Yelahanka New Town, Bangalore",Show Number,5.0,14.0,Taekwondo-Academy
+Hi Tech Taekwondo Academy,"17th G Main Road Rajajinagar 5th Block, Bangalore",Show Number,4.0,10.0,Taekwondo-Academy
+Wrm Taekwondo Academy,"No.26 2nd Floor Akashya Commercial Complex Victoria Layout, Bangalore",Show Number,5.0,4.0,Taekwondo-Academy
+Zenith Taekwondo Academy,"Spencer Road Pulikeshi Nagar, Bangalore",Show Number,4.0,3.0,Taekwondo-Academy
+Karnataka Taekwondo Academy,"B D A Road Kanakapura Road, Bangalore",Show Number,-,,Taekwondo-Academy
+Srv Taekwondo Academy,"Yelahanka New Town, Bangalore",,4.8,10.0,Taekwondo-Academy
+V D S Dance Company & Lokesh Taekwondo Academy,"Taluk Office Road Doddaballapur, Bangalore",Show Number,-,,Taekwondo-Academy
+Vital Momentum Fitness & Taekwondo Academy,"Sultanpalya Main Road Rt Nagar, Bangalore",Show Number,5.0,1.0,Taekwondo-Academy
+Mauryan Taekwondo Academy,"17th Cross Road Agrahara Dasarahalli, Bangalore",Show Number,5.0,11.0,Taekwondo-Academy
+Girinagar Taekwondo Academy,"2nd Phase Girinagar, Bangalore",Show Number,5.0,2.0,Taekwondo-Academy
+Red Ant Taekwondo Academy,"1st Cross Road Ganga Nagar Extension, Bangalore",Show Number,4.6,8.0,Taekwondo-Academy
+Karnataka Taekwondo Academy,"Rs Garden Bommasandra, Bangalore",,5.0,6.0,Taekwondo-Academy
+Bheeshma Taekwondo Academy,"Thyagaraj Nagar, Bangalore",Show Number,4.5,4.0,Taekwondo-Academy
+The Happy Yoga Community,"23rd Cross Jayanagar 7th Block, Bangalore",09725979029,4.7,219.0,Yoga-Centres
+Dr. Latha Shekhars Holistic Wellness Centre,"VENKATESH MURTHY RD. Banashankari, Bangalore",09980134963,4.7,366.0,Yoga-Centres
+Vishwa Poornima Yoga Centre,"2nd Stage Indiranagar, Bangalore",08128726662,4.8,552.0,Yoga-Centres
+Ashish Yoga Fitness,"Brookfield Marathahalli, Bangalore",Show Number,4.9,1.0,Yoga-Centres
+Yogamaya - Yoga 4 All,"19th Main Road Mc Layout, Bangalore",Show Number,4.9,1.0,Yoga-Centres
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",Show Number,4.1,1.0,Yoga-Centres
+Swami Vivekananda Yoga Anusandhana Samsthana,"Giddenahalli Road Jigani, Bangalore",Show Number,4.3,1.0,Yoga-Centres
+Art Of Living Yoga And Meditation,"2nd B Cross Girinagar, Bangalore",Show Number,4.9,889.0,Yoga-Centres
+Sri Sri School Of Yoga,"21st Km Kanakapura Road, Bangalore",Show Number,5.0,811.0,Yoga-Centres
+Paripurna Yoga Kendra,"10th A Cross Yelahanka New Town, Bangalore",Show Number,5.0,720.0,Yoga-Centres
+Sai Power Yoga Institute,"Bannerghatta Road Akshayanagar, Bangalore",Show Number,5.0,587.0,Yoga-Centres
+Sri Siddhalingeshwara Yoga Vana Hills,"Amruthur Road Yediyur, Bangalore",Show Number,3.6,791.0,Yoga-Centres
+Sri Sai Powar Yoga Institute,"2nd Cross Road Devarachikkana Halli, Bangalore",Show Number,5.0,568.0,Yoga-Centres
+Isha Hatha Yoga,"An Gupta Layout, Bangalore",Show Number,5.0,553.0,Yoga-Centres
+God Gift Yoga and Nature Cure Centre,"Sultan Palya Main Road Rt Nagar, Bangalore",Show Number,4.7,556.0,Yoga-Centres
+Be And Make Swami Vivekananda Yoga For Total Health And Peace,"10th Main Malleshpalya, Bangalore",Show Number,4.8,372.0,Yoga-Centres
+Rashtrothana Yoga & Fitness Centre,"9th Cross Sadashivanagar, Bangalore",Show Number,4.8,370.0,Yoga-Centres
+Yoga Paanchajanya Yoga,"Ranka Colony Road Bilekahalli, Bangalore",Show Number,4.9,350.0,Yoga-Centres
+Akshar Yoga,"13th Cross Sadashivanagar, Bangalore",Show Number,4.1,414.0,Yoga-Centres
+Sri Ramana Maharshi Foundation,"Anekal Taluk Attibele, Bangalore",Show Number,4.5,371.0,Yoga-Centres
+Yoga Kulam,"CBI Road Rt Nagar, Bangalore",Show Number,4.9,335.0,Yoga-Centres
+Aarogyadwar Holistic Center,"Basavanagar Main Road Basava Nagar, Bangalore",Show Number,5.0,321.0,Yoga-Centres
+Bodhi Yoga Academy,"10th Main Road Jayanagar, Bangalore",Show Number,4.9,322.0,Yoga-Centres
+Bodhi School Of Yoga,"Hoysala Nagar-Indiranagar, Bangalore",Show Number,4.9,322.0,Yoga-Centres
+Vask Yoga Centre,"4th Main Road Hessargatta Main Road, Bangalore",Show Number,4.5,347.0,Yoga-Centres
+Sri Raksha Yoga Kendra,"Balaji Street Ramamurthy Nagar, Bangalore",Show Number,4.9,313.0,Yoga-Centres
+Vishwa Bhaavni Yoga Centre,"3rd Cross Road Circular Street, Bangalore",Show Number,4.8,302.0,Yoga-Centres
+Sankalp Yoga Shala,"13th Cross Road Jayanagar 6th Block, Bangalore",Show Number,4.9,295.0,Yoga-Centres
+Kushiyogalaya Yoga Classes,"Nandhini Layout. Nandini Layout, Bangalore",Show Number,5.0,284.0,Yoga-Centres
+Sanskriti Yogashala,"Bangarappanagar Main Road Bangarappanagar, Bangalore",Show Number,4.9,288.0,Yoga-Centres
+Bloom Prenatal Therapy Yoga,"KV Layout Jayanagar 4th T Block, Bangalore",,5.0,278.0,Yoga-Centres
+Shoban's Creative Yoga,"Sharada Nagar-Bikasipura, Bangalore",Show Number,4.9,282.0,Yoga-Centres
+Yoga Wellness Center,"2nd Cross Road Kasturi Nagar, Bangalore",Show Number,4.8,284.0,Yoga-Centres
+Rashtrotthana Yoga Centre,"E Block Brookefield, Bangalore",Show Number,4.8,276.0,Yoga-Centres
+A 1000 Yoga,"1st Cross Koramangala, Bangalore",Show Number,4.0,326.0,Yoga-Centres
+Rv Yoga Kendra,"Ramamurthy Nagara Main Road Ramamurthy Nagar, Bangalore",Show Number,4.7,273.0,Yoga-Centres
+Trimuk Yoga,"Jp Nagar 5th Phase, Bangalore",Show Number,4.9,250.0,Yoga-Centres
+Chaitanya Wellness Yoga Academy,"GR Arcade Kasavanahalli, Bangalore",Show Number,4.8,248.0,Yoga-Centres
+Sri Krishna Wellness Yoga And Cultural Centre,"6th Main Malleswaram, Bangalore",Show Number,4.7,250.0,Yoga-Centres
+The Yoga Room By Vidhya Vakil,"National Games Village Complex KHB Games Village, Bangalore",Show Number,5.0,234.0,Yoga-Centres
+Sunraya Yoga & Wellness Center,"NO 9 8TH E MAIN Vidyaranyapura, Bangalore",Show Number,4.9,236.0,Yoga-Centres
+Stepperz Aerobics Dance N Yoga Studio,"13th Cross Sadashivanagar, Bangalore",Show Number,4.0,270.0,Yoga-Centres
+Metta Yoga & Pilates Studio,"Ivri Road Yelahanka, Bangalore",Show Number,5.0,208.0,Yoga-Centres
+Ashish Yoga Fitness Varthur,"Devasthanagalu, Bangalore",Show Number,5.0,202.0,Yoga-Centres
+Aayana Yoga Academy,"37th Cross Jayanagar 4th T Block, Bangalore",Show Number,4.9,203.0,Yoga-Centres
+Sri Gururaya School Of Yoga,"Gnana Bharathi Main Road Nagarbhavi, Bangalore",Show Number,4.9,202.0,Yoga-Centres
+Chaitanya Wellness Yoga Studio,"7th Cross C V Raman Nagar, Bangalore",Show Number,4.6,209.0,Yoga-Centres
+Deepam Yoga Classes,"Nagarabhavi Nagarbhavi, Bangalore",Show Number,4.9,188.0,Yoga-Centres
+The Rising Soul Yoga,"Shirdi Sai Nagar-Munekollal, Bangalore",Show Number,4.9,186.0,Yoga-Centres
+Chikitsa Yoga Treatment Center,"Uttarahalli Main Road Uttarahalli, Bangalore",Show Number,4.9,181.0,Yoga-Centres
+National Academy For Naturopathy And Yoga,"3rd Cross Vijaya Bank Layout, Bangalore",Show Number,4.8,183.0,Yoga-Centres
+Aarya Yoga,"10th Cross Road Hebbal, Bangalore",Show Number,4.9,178.0,Yoga-Centres
+Prana Yoga Studio And Acupuncture Clinic,"K Narayanapura Road Kothanur, Bangalore",Show Number,4.7,180.0,Yoga-Centres
+Shree Yoga Academy,"Double Road Doddakallasandra, Bangalore",Show Number,5.0,167.0,Yoga-Centres
+Atma Darshan Yogashram,"Dayanandasagar College Road Kumaraswamy Layout, Bangalore",Show Number,4.6,176.0,Yoga-Centres
+Shivananda Yoga Centtre,"9th B Cross HBR Layout 4th Block, Bangalore",Show Number,4.8,164.0,Yoga-Centres
+Laksh Yoga,"Sarvabhouma Nagar Bilekahalli, Bangalore",Show Number,5.0,156.0,Yoga-Centres
+Sangamithra Yoga,"Ramamurthy Nagar, Bangalore",Show Number,5.0,151.0,Yoga-Centres
+Yogashree,"Ramakrishna Garden Girinagar, Bangalore",Show Number,4.9,153.0,Yoga-Centres
+Vismaya Yoga Centre,"Begur Main Road Bommanahalli, Bangalore",Show Number,4.9,152.0,Yoga-Centres
+Dharshmi Yoga Academy,"Outer Ring Road Mahadevapura, Bangalore",Show Number,4.8,155.0,Yoga-Centres
+San Yoga Studio,"Tumkur Road Yeshwanthpur, Bangalore",Show Number,5.0,147.0,Yoga-Centres
+Mamdev Yoga Hub,"Srinivasnagar Main Road Banashankari, Bangalore",Show Number,4.9,149.0,Yoga-Centres
+Hriti Yoga By Ruchi,"Vigneshwar Nagar, Bangalore",Show Number,5.0,139.0,Yoga-Centres
+Isha Yoga Center,"1st Block East Jayanagar 1st Block, Bangalore",Show Number,4.6,151.0,Yoga-Centres
+Yogakshema Yoga Center,"10th Main Ngef Layout Nagarbhavi, Bangalore",Show Number,4.9,140.0,Yoga-Centres
+Prashanth Yoga Mandir,"2nd Main Road Vijayanagar, Bangalore",,4.9,139.0,Yoga-Centres
+Aayush Yoga Mandir And Fitness,"Srinivas Complex Doddaballapur, Bangalore",Show Number,4.9,138.0,Yoga-Centres
+Fitness Yoga,"Wheeler Road Frazer Town, Bangalore",Show Number,4.8,133.0,Yoga-Centres
+Nourish Homeyoga,"Krishnarajapuram, Bangalore",,4.9,130.0,Yoga-Centres
+Sparsh Yoga Centre,"24th Main Jp Nagar 6th Phase, Bangalore",Show Number,4.8,130.0,Yoga-Centres
+Vedic Yoga Shala,"1st Main Koramangala, Bangalore",Show Number,5.0,122.0,Yoga-Centres
+Guhyamworld Health And Wellness Store,"5th A Main Road Malleshpalya, Bangalore",Show Number,5.0,119.0,Yoga-Centres
+Do Yoga,"4th Main Road Hsr Layout, Bangalore",Show Number,4.6,127.0,Yoga-Centres
+Shivanjali Yoga Kendra,"1st Cross Road Sahakara Nagar, Bangalore",Show Number,4.9,119.0,Yoga-Centres
+Srimoyi Yoga,"Sarjapur Outer Ring Road Bellandur, Bangalore",Show Number,4.4,130.0,Yoga-Centres
+Zorba - Yoga Studio,"Thambu Chetty Palya Main Road Ragavendra Circle, Bangalore",Show Number,4.7,116.0,Yoga-Centres
+Kaushalam Yoga Kendra,"13th Cross Road Jp Nagar, Bangalore",Show Number,4.8,113.0,Yoga-Centres
+Gnanisprit Yoga,"17th Main Road Byataranyanapura, Bangalore",Show Number,5.0,107.0,Yoga-Centres
+Yoga Sangha,"19th Main Road Hsr Layout Sector 4, Bangalore",Show Number,4.8,111.0,Yoga-Centres
+Akshar Power Yoga Academy,"Block C Sahakara Nagar, Bangalore",Show Number,4.4,119.0,Yoga-Centres
+Shree Yoga,"Aecs Layout C Block Aecs Layout Bengaluru Brookefield, Bangalore",Show Number,4.9,105.0,Yoga-Centres
+Neolife Yoga Studio,"Aecs Layout Kundalahalli, Bangalore",Show Number,3.7,135.0,Yoga-Centres
+Harsha Yoga Pathashala,"3rd Main Road Nagarbhavi, Bangalore",Show Number,4.6,108.0,Yoga-Centres
+The Practice Room,"Bengaluru Cooke Town, Bangalore",Show Number,4.9,98.0,Yoga-Centres
+Swatma Yoga Centre,"Kachohalli Main Road ISRO Layout Kumaraswamy, Bangalore",Show Number,5.0,94.0,Yoga-Centres
+Best International Institute,"Chandra Layout Vijayanagar, Bangalore",Show Number,4.9,95.0,Yoga-Centres
+Swamy Vivekananda Yoga Kendra,"Dr Rajkumar Road Rajajinagar, Bangalore",Show Number,4.2,110.0,Yoga-Centres
+Zen Yoga Shala,"7th Cross Road Thanisandra, Bangalore",Show Number,4.9,94.0,Yoga-Centres
+CrossFit Agni,Bangalore 560043,9108850776.0,4.9,239.0,CrossFit-Box
+I Think CrossFit,Bangalore 560037,9742568433.0,4.9,64.0,CrossFit-Box
+CrossFit Yuva,Bangalore 560077,8277703706.0,4.8,77.0,CrossFit-Box
+CrossFit For Sure,Bangalore 560077,9108456500.0,4.5,77.0,CrossFit-Box
+Namma CrossFit HSR,"HSR Layout, Bangalore",8884562662.0,5.0,4.0,CrossFit-Box
+Once More CrossFit,Bangalore 560077,9449015091.0,4.7,34.0,CrossFit-Box
+TFD CrossFit (Cult),"Koramangala, Bangalore",,4.6,514.0,CrossFit-Box

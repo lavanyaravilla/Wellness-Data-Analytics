@@ -1,0 +1,496 @@
+name,address,phone,rating,reviews,category,Medium,City,area,is_near_duplicate,missing_contact,invalid_phone
+Go Activ International,"R V Road Cross Basavanagudi, Bangalore",9980235474,4.8,107,Gym,JustDial,Bangalore,R V Road Cross Basavanagudi,False,False,False
+Emerge Private Fitness Studio,"24th Cross Jayanagar 6th Block, Bangalore",9606166994,4.8,1,Gym,JustDial,Bangalore,Jayanagar,True,False,False
+4th Station Gym,"2nd Block Basaveshwara Nagar, Bangalore",6366558724,4.5,467,Gym,JustDial,Bangalore,Basaveshwara Nagar,True,False,False
+Emerge Premium Fitness Studio,"S Kariyappa Road Jayanagar 7th Block, Bangalore",9054821932,4.8,119,Gym,JustDial,Bangalore,S Kariyappa Road Jayanagar,True,False,False
+Iconic Fitness Koramangala,"Wipro Signal Koramangala 1st Block, Bangalore",8904249820,4.7,802,Gym,JustDial,Bangalore,Wipro Signal Koramangala,True,False,False
+Fitness Race,"Dinnur Main Road Rt Nagar, Bangalore",8105032618,4.5,382,Gym,JustDial,Bangalore,Dinnur Main Road Rt Nagar,True,False,False
+Witness The Fitness,"Devachikkahalli Main Road Begur, Bangalore",7041567319,4.9,395,Gym,JustDial,Bangalore,Devachikkahalli Main Road Begur,True,False,False
+Zero 3,"29th Cross Main Road Kaggadasapura Road, Bangalore",7048312669,5.0,1,Gym,JustDial,Bangalore,Main Road Kaggadasapura Road,True,False,False
+Tenzee Multisports,"Bannerghatta Main Road Bilekahalli, Bangalore",9724613948,4.3,187,Gym,JustDial,Bangalore,Bannerghatta Main Road Bilekahalli,True,False,False
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",8511066401,4.6,367,Gym,JustDial,Bangalore,Maruthi Nagar Madiwala,True,False,False
+Kittys Muscle Planet,"Modi Hospital Road Basaveshwara Nagar, Bangalore",8460484369,4.9,367,Gym,JustDial,Bangalore,Modi Hospital Road Basaveshwara Nagar,True,False,False
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",8401150426,5.0,211,Gym,JustDial,Bangalore,Oil Mill Road Kammanahalli,True,False,False
+Clout Fit,"Whitefield Hoskote Road Belathur, Bangalore",8401264082,4.9,671,Gym,JustDial,Bangalore,Whitefield Hoskote Road Belathur,True,False,False
+Emerge Private Fitness Studio - RR Nagar,"Rajarajeshwari Nagar, Bangalore",9606292814,4.9,565,Gym,JustDial,Bangalore,Rajarajeshwari Nagar,False,False,False
+Get Sculpt Here,"Ambedkar Nagar Hill Top Whitefield, Bangalore",7041151920,3.5,2,Gym,JustDial,Bangalore,Ambedkar Nagar Hill Top Whitefield,True,False,False
+Emerge Fitness Studio and Sports Arena Kengeri,"Kengeri Ring Road Gnanabharathi, Bangalore",8123790528,4.5,14,Gym,JustDial,Bangalore,Kengeri Ring Road Gnanabharathi,True,False,False
+Rowell Fitness,"1st Jp Nagar 7th Phase, Bangalore",9035018526,4.9,449,Gym,JustDial,Bangalore,1st Jp Nagar 7th Phase,True,False,False
+Gonature Fitness Centre,"4th Phase Yelahanka New Town, Bangalore",9035079230,4.5,285,Gym,JustDial,Bangalore,4th Phase Yelahanka New Town,False,False,False
+Fit Society,"Bull Temple Main Road Basavanagudi, Bangalore",9845270206,4.9,214,Gym,JustDial,Bangalore,Bull Temple Main Road Basavanagudi,True,False,False
+Sunrise Fitness,"4th Cross Sudhama Nagar, Bangalore",9980209662,4.6,24,Gym,JustDial,Bangalore,Sudhama Nagar,False,False,False
+Clout Fit,"Kodigehalli Main Road Krishnarajapuram, Bangalore",8401768770,4.7,722,Gym,JustDial,Bangalore,Kodigehalli Main Road Krishnarajapuram,True,False,False
+Skanda Fitness Centrer,"8th Cross Kaveri Kantha Koramangala, Bangalore",7411829469,4.8,542,Gym,JustDial,Bangalore,Kaveri Kantha Koramangala,True,False,False
+Apple Fitness,"18th Main Road Jayanagar 4th T Block, Bangalore",8460415524,4.1,752,Gym,JustDial,Bangalore,Jayanagar,True,False,False
+Silhouette Fitness,"24th Cross Road Banashankari 2nd Stage, Bangalore",9980229160,4.6,652,Gym,JustDial,Bangalore,Road Banashankari 2nd Stage,True,False,False
+Finix Fitness Studio,"Gandhi Bazar Main Road Basavanagudi, Bangalore",8050765716,4.6,883,Gym,JustDial,Bangalore,Gandhi Bazar Main Road Basavanagudi,True,False,False
+Vivs Gym,"Mosque Road Frazer Town, Bangalore",8050264059,4.3,262,Gym,JustDial,Bangalore,Mosque Road Frazer Town,True,False,False
+Excel Dance and Fitness,"BTM 4th Stage Vijaya Bank Layout, Bangalore",8490888466,4.5,74,Gym,JustDial,Bangalore,BTM 4th Stage Vijaya Bank Layout,True,False,False
+Bmf Station Body Mind Fit,"Muneshwara Block Banashankari 3rd Stage, Bangalore",8460510367,4.6,114,Gym,JustDial,Bangalore,Muneshwara Block Banashankari 3rd Stage,True,False,False
+Shields Fitness Club,"Vani Vilas Road Basavanagudi, Bangalore",9980543710,4.7,569,Gym,JustDial,Bangalore,Vani Vilas Road Basavanagudi,True,False,False
+Wow Fitness Gym At Isro Layout,"Stage 2 Isro Layout, Bangalore",7041554537,4.8,506,Gym,JustDial,Bangalore,Stage 2 Isro Layout,False,False,False
+Elite Squad Gymnastics Academy (Chandapura),"Marsur Gate Marsur, Bangalore",07383740174,4.8,29,Fitness Studio,JustDial,Bangalore,Marsur Gate Marsur,False,False,False
+Iconic Fitness Koramangala,"Wipro Signal Koramangala 1st Block, Bangalore",08904249820,4.7,802,Fitness Studio,JustDial,Bangalore,Wipro Signal Koramangala,True,False,False
+Vivs Gym,"Mosque Road Frazer Town, Bangalore",08050264059,4.3,262,Fitness Studio,JustDial,Bangalore,Mosque Road Frazer Town,True,False,False
+Excel Dance and Fitness,"BTM 4th Stage Vijaya Bank Layout, Bangalore",08490888466,4.5,74,Fitness Studio,JustDial,Bangalore,BTM 4th Stage Vijaya Bank Layout,True,False,False
+Shubha Sangeetha Mattu Nrutya Paata Shale,"Nagadevanahalli-gnanabharathi, Bangalore",09980149688,4.1,11,Fitness Studio,JustDial,Bangalore,Nagadevanahalli-gnanabharathi,False,False,False
+Skanda Fitness Centrer,"8th Cross Kaveri Kantha Koramangala, Bangalore",07411829469,4.8,542,Fitness Studio,JustDial,Bangalore,Kaveri Kantha Koramangala,True,False,False
+Fit Society,"Bull Temple Main Road Basavanagudi, Bangalore",09845270206,4.9,214,Fitness Studio,JustDial,Bangalore,Bull Temple Main Road Basavanagudi,True,False,False
+Reckon Dance Zumba & Fitness Studio LLP,"Dr. Shivaramkaranth Nagar Mcehslayout Hegde Nagar, Bangalore",07490847214,4.7,101,Fitness Studio,JustDial,Bangalore,Dr. Shivaramkaranth Nagar Mcehslayout Hegde Nagar,True,False,False
+Prafitz Dance & Fitness,"Immadihalli Main Road Whitefield, Bangalore",07487861570,4.9,49,Fitness Studio,JustDial,Bangalore,Immadihalli Main Road Whitefield,False,False,False
+Shields Fitness Club,"Vani Vilas Road Basavanagudi, Bangalore",09980543710,4.7,569,Fitness Studio,JustDial,Bangalore,Vani Vilas Road Basavanagudi,True,False,False
+Silhouette Fitness,"24th Cross Road Banashankari 2nd Stage, Bangalore",09980229160,4.6,652,Fitness Studio,JustDial,Bangalore,Road Banashankari 2nd Stage,True,False,False
+Rowell Fitness,"1st Jp Nagar 7th Phase, Bangalore",09035018526,4.9,449,Fitness Studio,JustDial,Bangalore,1st Jp Nagar 7th Phase,True,False,False
+Fitness Race,"Dinnur Main Road Rt Nagar, Bangalore",08105032618,4.5,382,Fitness Studio,JustDial,Bangalore,Dinnur Main Road Rt Nagar,True,False,False
+Apple Fitness,"18th Main Road Jayanagar 4th T Block, Bangalore",08460415524,4.1,752,Fitness Studio,JustDial,Bangalore,Jayanagar,True,False,False
+Emerge Fitness Studio and Sports Arena Kengeri,"Kengeri Ring Road Gnanabharathi, Bangalore",08123790528,4.5,14,Fitness Studio,JustDial,Bangalore,Kengeri Ring Road Gnanabharathi,True,False,False
+Get Sculpt Here,"Ambedkar Nagar Hill Top Whitefield, Bangalore",07041151920,3.5,2,Fitness Studio,JustDial,Bangalore,Ambedkar Nagar Hill Top Whitefield,True,False,False
+Shorin Ryu Karate Do Martial Arts Fitness Clubs,"Gandhi Circle Varthur Varthur, Bangalore",09980239396,4.6,11,Fitness Studio,JustDial,Bangalore,Gandhi Circle Varthur Varthur,False,False,False
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",08401150426,5.0,211,Fitness Studio,JustDial,Bangalore,Oil Mill Road Kammanahalli,True,False,False
+Tenzee Multisports,"Bannerghatta Main Road Bilekahalli, Bangalore",09724613948,4.3,187,Fitness Studio,JustDial,Bangalore,Bannerghatta Main Road Bilekahalli,True,False,False
+Leon Maestro De Fitness,"Kammanahalli Main Road Kammanahalli, Bangalore",09980137198,4.5,469,Fitness Studio,JustDial,Bangalore,Kammanahalli Main Road Kammanahalli,False,False,False
+The Happy Yoga Community,"23rd Cross Jayanagar 7th Block, Bangalore",09725979029,4.7,219,Fitness Studio,JustDial,Bangalore,Jayanagar,True,False,False
+Bangalore Indoor Cricket Club,"Next to G T Residential Layout Laggere, Bangalore",09980216977,4.2,962,Fitness Studio,JustDial,Bangalore,Next to G T Residential Layout Laggere,False,False,False
+Emerge Private Fitness Studio,"24th Cross Jayanagar 6th Block, Bangalore",09606166994,4.8,1,Fitness Studio,JustDial,Bangalore,Jayanagar,True,False,False
+Excel Dance And Fitness Academy,"5th Cross Road Koramangala 6th Block, Bangalore",09740248499,4.7,76,Fitness Studio,JustDial,Bangalore,Road Koramangala,False,False,False
+Finix Fitness Studio,"Gandhi Bazar Main Road Basavanagudi, Bangalore",08050765716,4.6,883,Fitness Studio,JustDial,Bangalore,Gandhi Bazar Main Road Basavanagudi,True,False,False
+Muscle Craft Fitness Centre,"24th Main Jp Nagar 5th Phase, Bangalore",09980011967,4.3,174,Fitness Studio,JustDial,Bangalore,Jp Nagar 5th Phase,False,False,False
+Move N Groove Dance and Fitness Studio Sanjaynagar Branch,"Sanjay Nagar Main Road Sanjay Nagar, Bangalore",08460492997,3.5,2,Fitness Studio,JustDial,Bangalore,Sanjay Nagar Main Road Sanjay Nagar,False,False,False
+Kittys Muscle Planet,"Modi Hospital Road Basaveshwara Nagar, Bangalore",08460484369,4.9,367,Fitness Studio,JustDial,Bangalore,Modi Hospital Road Basaveshwara Nagar,True,False,False
+Zero 3,"29th Cross Main Road Kaggadasapura Road, Bangalore",07048312669,5.0,1,Fitness Studio,JustDial,Bangalore,Main Road Kaggadasapura Road,True,False,False
+Muscle Pump Gym,"ITI Layout Kathriguppe, Bangalore",08867682568,4.6,82,Fitness Studio,JustDial,Bangalore,ITI Layout Kathriguppe,False,False,False
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",08511066401,4.6,367,Fitness Studio,JustDial,Bangalore,Maruthi Nagar Madiwala,True,False,False
+Emerge Premium Fitness Studio,"S Kariyappa Road Jayanagar 7th Block, Bangalore",09054821932,4.8,119,Fitness Studio,JustDial,Bangalore,S Kariyappa Road Jayanagar,True,False,False
+4th Station Gym,"2nd Block Basaveshwara Nagar, Bangalore",06366558724,4.5,467,Fitness Studio,JustDial,Bangalore,Basaveshwara Nagar,True,False,False
+Clout Fit,"Whitefield Hoskote Road Belathur, Bangalore",08401264082,4.9,671,Fitness Studio,JustDial,Bangalore,Whitefield Hoskote Road Belathur,True,False,False
+Eden Spalicious Pvt Ltd,"Anjaneya Nagar Banashankari 3rd Stage, Bangalore",09980216892,3.6,121,Fitness Studio,JustDial,Bangalore,Anjaneya Nagar Banashankari 3rd Stage,False,False,False
+Furyinc.Co,Bangalore,09980116072,4.4,4,Fitness Studio,JustDial,Bangalore,Bangalore,True,False,False
+Witness The Fitness,"Devachikkahalli Main Road Begur, Bangalore",07041567319,4.9,395,Fitness Studio,JustDial,Bangalore,Devachikkahalli Main Road Begur,True,False,False
+Reboot Fitness and Dance Studio,"Ombr Layout-Banaswadi, Bangalore",09980229077,4.5,39,Fitness Studio,JustDial,Bangalore,Ombr Layout-Banaswadi,True,False,False
+Bmf Station Body Mind Fit,"Muneshwara Block Banashankari 3rd Stage, Bangalore",08460510367,4.6,114,Fitness Studio,JustDial,Bangalore,Muneshwara Block Banashankari 3rd Stage,True,False,False
+Clout Fit,"Kodigehalli Main Road Krishnarajapuram, Bangalore",08401768770,4.7,722,Fitness Studio,JustDial,Bangalore,Kodigehalli Main Road Krishnarajapuram,True,False,False
+Rba Of Arts,"Beml Layout Rajarajeshwari Nagar, Bangalore",09980539404,4.5,65,Fitness Studio,JustDial,Bangalore,Beml Layout Rajarajeshwari Nagar,True,False,False
+TFT GYM,"Kumaraswamy Layout Kumaraswamy Layout 1st Stage, Bangalore",09980232674,4.7,366,Fitness Studio,JustDial,Bangalore,Kumaraswamy Layout Kumaraswamy Layout 1st Stage,False,False,False
+Sunrisers Sports & Cultural Federation,"Anand Layout Vidyaranyapura, Bangalore",,4.6,11,Fitness Studio,JustDial,Bangalore,Anand Layout Vidyaranyapura,False,True,False
+Fitness First,"Whitefield Main Road Whitefield, Bangalore",08401527147,4.3,185,Fitness Studio,JustDial,Bangalore,Whitefield Main Road Whitefield,False,False,False
+M3 Fitness Club,"Marathalli Outer Ring Road Marathahalli, Bangalore",,4.3,64,Fitness Studio,JustDial,Bangalore,Marathalli Outer Ring Road Marathahalli,False,True,False
+SAP Fitness,"Kempegowda Layout Outer Ring Road Laggere, Bangalore",09980796687,5.0,35,Fitness Studio,JustDial,Bangalore,Kempegowda Layout Outer Ring Road Laggere,False,False,False
+Skanda Fitness Center,"8th Cross Road Jakkasandra, Bangalore",07947313088,4.8,547,Fitness Studio,JustDial,Bangalore,Road Jakkasandra,False,False,False
+Ymia Club,"Assaye Road, Bangalore",09606170197,4.0,69,Fitness Studio,JustDial,Bangalore,Assaye Road,False,False,False
+TRIURGE,"Jayanagar, Bangalore",,4.8,103,Fitness Studio,JustDial,Bangalore,Jayanagar,False,True,False
+Jbs Football Ground,"Krishnappa Garden C V Raman Nagar, Bangalore",08045784912,4.2,797,Fitness Studio,JustDial,Bangalore,Krishnappa Garden C V Raman Nagar,False,False,False
+Body Edit,"80 Feet Road Padmanabhanagar, Bangalore",,5.0,194,Fitness Studio,JustDial,Bangalore,80 Feet Road Padmanabhanagar,False,True,False
+Jayanagar Volleyball Stadium,"Bengaluru Jayanagar, Bangalore",09606185598,4.8,319,Fitness Studio,JustDial,Bangalore,Bengaluru Jayanagar,False,False,False
+The Hsr Club,"22nd Cross HSR Layout Sector 3, Bangalore",,4.2,7,Fitness Studio,JustDial,Bangalore,HSR Layout Sector 3,False,True,False
+The Majesstine Sports,"5th Cross Garvebhavipalya, Bangalore",,4.4,3,Fitness Studio,JustDial,Bangalore,Garvebhavipalya,False,True,False
+Star Fitness Gym & Health Club,"Saraswathipuram Main Road Saraswathipuram, Bangalore",,4.0,3,Fitness Studio,JustDial,Bangalore,Saraswathipuram Main Road Saraswathipuram,False,True,False
+Hawk Fitness,"Electronic C electronic city, Bangalore",,4.9,1,Fitness Studio,JustDial,Bangalore,Electronic C electronic city,False,True,False
+Moveza Fitness - Panathur,"Panathur Road Kadubeesanahalli, Bangalore",,4.1,2,Fitness Studio,JustDial,Bangalore,Panathur Road Kadubeesanahalli,False,True,False
+Zest Fitness Studio Ect,"Neeladri Road Electronic City, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,Neeladri Road Electronic City,True,True,False
+Reforma Fitness Center,"Mathikere Main Road Mathikere, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,Mathikere Main Road Mathikere,False,True,False
+Fitness Empire,"Outer Ring Road Marathahalli, Bangalore",,4.7,1,Fitness Studio,JustDial,Bangalore,Outer Ring Road Marathahalli,True,True,False
+Fitness Fuel Factory,"17th Cross HSR Layout, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,HSR Layout,False,True,False
+Srx Fitness Studio,"HMT Main Road Mathikere, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,HMT Main Road Mathikere,False,True,False
+Zest Fitness Studio,"27th Main Road HSR Layout Sector 1, Bangalore",,4.6,1,Fitness Studio,JustDial,Bangalore,HSR Layout Sector 1,True,True,False
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",,4.1,1,Fitness Studio,JustDial,Bangalore,Whitefield Main Road Whitefield,True,True,False
+Bon Ton Fitness,"108 3RD FLOOR 4TH Nagasandra, Bangalore",,4.9,1,Fitness Studio,JustDial,Bangalore,108 3RD FLOOR 4TH Nagasandra,False,True,False
+Muscle Planet,"Laggere Main Road Laggere, Bangalore",,4.9,1,Fitness Studio,JustDial,Bangalore,Laggere Main Road Laggere,False,True,False
+Vinnis Fitness,"Hesarghatta Main Road Hessargatta Main Road, Bangalore",,4.9,1,Fitness Studio,JustDial,Bangalore,Hesarghatta Main Road Hessargatta Main Road,False,True,False
+Curl Fit,"Ejipura Main Road Ejipura, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,Ejipura Main Road Ejipura,False,True,False
+Befiter Fitness,"11th Main Road Mathikere, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,Mathikere,True,True,False
+Arch Physiotherapy And Rehabilitation,"Kundanahalli Kundalahalli, Bangalore",,4.8,1,Fitness Studio,JustDial,Bangalore,Kundanahalli Kundalahalli,False,True,False
+Stayfit Hub,"Bannerghatta Road Bannerghatta Road, Bangalore",,4.9,1,Fitness Studio,JustDial,Bangalore,Bannerghatta Road Bannerghatta Road,False,True,False
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",08401150426,5.0,211,Calisthenic-Gym,JustDial,Bangalore,Oil Mill Road Kammanahalli,True,False,False
+Emerge Premium Fitness Studio,"S Kariyappa Road Jayanagar 7th Block, Bangalore",09054821932,4.8,119,Calisthenic-Gym,JustDial,Bangalore,S Kariyappa Road Jayanagar,True,False,False
+Twistars Gymnastics,"Hrbr Layout, Bangalore",08460393915,4.9,120,Calisthenic-Gym,JustDial,Bangalore,Hrbr Layout,False,False,False
+Zest Fitness Studio Ect,"Neeladri Road Electronic City, Bangalore",,4.8,1,Calisthenic-Gym,JustDial,Bangalore,Neeladri Road Electronic City,True,True,False
+Zest Fitness Studio,"27th Main Road HSR Layout Sector 1, Bangalore",,4.6,1,Calisthenic-Gym,JustDial,Bangalore,HSR Layout Sector 1,True,True,False
+Ramana Boxing Club,"Outer Ring Road Hrbr Layout, Bangalore",,4.4,620,Calisthenic-Gym,JustDial,Bangalore,Outer Ring Road Hrbr Layout,True,True,False
+Chaos Faktory,"15th Cross Road HSR Layout, Bangalore",,4.7,515,Calisthenic-Gym,JustDial,Bangalore,Road HSR Layout,False,True,False
+Fitness First (Eva Mall),"Brigade Road Brigade Road, Bangalore",,4.0,594,Calisthenic-Gym,JustDial,Bangalore,Brigade Road Brigade Road,True,True,False
+Health & Fitness Gym,"19 Khb Colony 5th Block Bengaluru Koramangala, Bangalore",,4.9,476,Calisthenic-Gym,JustDial,Bangalore,19 Khb Colony Bengaluru Koramangala,True,True,False
+Fitness First,"100 Feet Inner Ring Road Koramangala, Bangalore",,3.9,584,Calisthenic-Gym,JustDial,Bangalore,100 Feet Inner Ring Road Koramangala,True,True,False
+Multifit Hrbr,"HRBR Layout Kalyan Nagar, Bangalore",,4.1,476,Calisthenic-Gym,JustDial,Bangalore,HRBR Layout Kalyan Nagar,False,True,False
+Multifit,"80 Feet Road HAL 2nd Stage Indiranagar, Bangalore",,4.1,329,Calisthenic-Gym,JustDial,Bangalore,80 Feet Road HAL 2nd Stage Indiranagar,False,True,False
+Rise Fitness,"Hormavu Main Road Banaswadi, Bangalore",,4.9,264,Calisthenic-Gym,JustDial,Bangalore,Hormavu Main Road Banaswadi,False,True,False
+Mani's Core Fit,"Malleswaram, Bangalore",,4.8,261,Calisthenic-Gym,JustDial,Bangalore,Malleswaram,True,True,False
+Fit Factory,"Uttarahalli Main Road Uttarahalli, Bangalore",,4.6,238,Calisthenic-Gym,JustDial,Bangalore,Uttarahalli Main Road Uttarahalli,False,True,False
+Maniac Lads Pvt Ltd,"Kagdaspura Main Road C V Raman Nagar, Bangalore",,4.9,205,Calisthenic-Gym,JustDial,Bangalore,Kagdaspura Main Road C V Raman Nagar,False,True,False
+Kineto Calisthenics Park,"Chikkalasandra Ramanjaneya Nagar, Bangalore",,5.0,200,Calisthenic-Gym,JustDial,Bangalore,Chikkalasandra Ramanjaneya Nagar,False,True,False
+Ace Fitness,"6th Block Banashankari 3rd Stage, Bangalore",,4.9,197,Calisthenic-Gym,JustDial,Bangalore,Banashankari 3rd Stage,False,True,False
+Fighter Club,"Begur Road, Bangalore",,5.0,190,Calisthenic-Gym,JustDial,Bangalore,Begur Road,False,True,False
+Calibaf - The Calisthenics Studio,"7th Main Road Hrbr Layout, Bangalore",,4.9,191,Calisthenic-Gym,JustDial,Bangalore,Hrbr Layout,False,True,False
+Kranos Fitness Hub,"HSR Layout HSR Layout, Bangalore",,4.7,196,Calisthenic-Gym,JustDial,Bangalore,HSR Layout HSR Layout,False,True,False
+Karnos Fitness Hub,"Near It Park It Layout Sector 7 HSR Layout Sector 7, Bangalore",,4.7,194,Calisthenic-Gym,JustDial,Bangalore,Near It Park It Layout Sector 7 HSR Layout Sector 7,False,True,False
+The Movement Fitness Centre,"23rd Cross Road HSR Layout, Bangalore",,4.7,188,Calisthenic-Gym,JustDial,Bangalore,Road HSR Layout,False,True,False
+Bohofit Fitness Centre,"2nd Cross HSR Layout, Bangalore",,5.0,169,Calisthenic-Gym,JustDial,Bangalore,HSR Layout,False,True,False
+Nxtmove Fitness Pvt Ltd,"24th Main Road HSR Layout Sector 2, Bangalore",,4.7,143,Calisthenic-Gym,JustDial,Bangalore,HSR Layout Sector 2,False,True,False
+Cult Fit,"Gangadhar Chetty Road Ulsoor, Bangalore",,4.1,162,Calisthenic-Gym,JustDial,Bangalore,Gangadhar Chetty Road Ulsoor,False,True,False
+Fusion Fitness,"5th Main Road Ittamadu, Bangalore",,4.8,132,Calisthenic-Gym,JustDial,Bangalore,Ittamadu,False,True,False
+Mind and Muscle Fitness,"Between Jp Nagar 7th Phase, Bangalore",,5.0,124,Calisthenic-Gym,JustDial,Bangalore,Between Jp Nagar 7th Phase,False,True,False
+Republic Of Domination,"Panduranga Nagar, Bangalore",,4.9,108,Calisthenic-Gym,JustDial,Bangalore,Panduranga Nagar,False,True,False
+Akhaada Crossfit Studio,"Anugraha Layout, Bangalore",,5.0,102,Calisthenic-Gym,JustDial,Bangalore,Anugraha Layout,False,True,False
+Fitness At Impact,"3rd Block Basaveshwara Nagar, Bangalore",,4.8,87,Calisthenic-Gym,JustDial,Bangalore,Basaveshwara Nagar,False,True,False
+Bell Fitness and Play Arena,"Dodda Basti Main Road Sonnenahalli, Bangalore",,4.9,83,Calisthenic-Gym,JustDial,Bangalore,Dodda Basti Main Road Sonnenahalli,False,True,False
+The Outfit Gym,"Sodepur Appareddipalya Bengaluru Indiranagar, Bangalore",,4.6,86,Calisthenic-Gym,JustDial,Bangalore,Sodepur Appareddipalya Bengaluru Indiranagar,False,True,False
+Muscle Garage,"Dr Rajkumar Road Rajajinagar 6th Block, Bangalore",,5.0,48,Calisthenic-Gym,JustDial,Bangalore,Dr Rajkumar Road Rajajinagar,False,True,False
+Get In Shape,"Seshadripuram, Bangalore",,4.9,8,Calisthenic-Gym,JustDial,Bangalore,Seshadripuram,False,True,False
+Srushti Kala Mandira,"16th Jp Nagar 5th Phase, Bangalore",,4.3,8,Calisthenic-Gym,JustDial,Bangalore,16th Jp Nagar 5th Phase,False,True,False
+Fitness Edge Equipments,"#44 CNR Complex Vinayaka Nagar Yelahanka, Bangalore",,3.8,5,Calisthenic-Gym,JustDial,Bangalore,#44 CNR Complex Vinayaka Nagar Yelahanka,False,True,False
+The Cavalry Strength And Conditioning,"Street John'S Road St Johns Road, Bangalore",,4.4,4,Calisthenic-Gym,JustDial,Bangalore,Street John'S Road St Johns Road,False,True,False
+Fit Equation Gym,"1st Phase Bharat Nagar, Bangalore",,5.0,2,Calisthenic-Gym,JustDial,Bangalore,1st Phase Bharat Nagar,False,True,False
+Spartan Fitness,"Kogilu Main Road Kogilu, Bangalore",,4.0,2,Calisthenic-Gym,JustDial,Bangalore,Kogilu Main Road Kogilu,False,True,False
+Sri Gandha Gym,"Magadi Main Road Anjananagar, Bangalore",,5.0,1,Calisthenic-Gym,JustDial,Bangalore,Magadi Main Road Anjananagar,False,True,False
+Mr Chethan,"Mysore Road Kumbalgodu, Bangalore",,4.0,1,Calisthenic-Gym,JustDial,Bangalore,Mysore Road Kumbalgodu,False,True,False
+Mahi's Dance Club,"Ist Cross Road Bhagyalakshmi Avenue, Bangalore",,4.0,1,Calisthenic-Gym,JustDial,Bangalore,Ist Cross Road Bhagyalakshmi Avenue,False,True,False
+NB3 Fitness Centra gym,Bangalore,,3.0,1,Calisthenic-Gym,JustDial,Bangalore,Bangalore,False,True,False
+Sculpt Fitness,"Rayakotta Road Old Rayakottah HUDCO, Hosur",,5.0,8,Calisthenic-Gym,JustDial,Hosur,Rayakotta Road Old Rayakottah HUDCO,False,True,False
+Hosur Sports Arena,"Krishnagiri Bye Pass Road Jalagandeswarar Nagar, Hosur",,4.5,140,Calisthenic-Gym,JustDial,Hosur,Krishnagiri Bye Pass Road Jalagandeswarar Nagar,False,True,False
+New S P Fitness Studio,"Channel Road Ck Road, Channapatna",,4.9,19,Calisthenic-Gym,JustDial,Channapatna,Channel Road Ck Road,False,True,False
+MS FITNESS AND GYM,"Govt Boys College Main Road Kolar Fort, Kolar",,4.9,42,Calisthenic-Gym,JustDial,Kolar,Govt Boys College Main Road Kolar Fort,False,True,False
+My Fit Fitness Centre,"Sidco Krishnagiri Courts, Krishnagiri",,5.0,55,Calisthenic-Gym,JustDial,Krishnagiri,Sidco Krishnagiri Courts,False,True,False
+Ajaya Golden Gym,"Old Bus Stand Road Pandavapura, Mandya",,5.0,1,Calisthenic-Gym,JustDial,Mandya,Old Bus Stand Road Pandavapura,False,True,False
+POWER HOUSE GYM SLEEK FIT MACHINE MAKERS,"Al Badar Road Rajivnagar, Mysore",,4.4,160,Calisthenic-Gym,JustDial,Mysore,Al Badar Road Rajivnagar,False,True,False
+Pure Gym,"New Kantharaj Urs Road Tk Layout, Mysore",,4.6,281,Calisthenic-Gym,JustDial,Mysore,New Kantharaj Urs Road Tk Layout,False,True,False
+Heallth Club,"2nd Phase Vijaynagar 4th Stage, Mysore",,4.8,16,Calisthenic-Gym,JustDial,Mysore,2nd Phase Vijaynagar 4th Stage,False,True,False
+Supernova Fitness 365,"Gaddige Main Road Bogadi, Mysore",,5.0,5,Calisthenic-Gym,JustDial,Mysore,Gaddige Main Road Bogadi,False,True,False
+G V Fitness Gym,"12 Bangalore Highways Karumbalai Karuppur, Salem",,4.9,64,Calisthenic-Gym,JustDial,Salem,12 Bangalore Highways Karumbalai Karuppur,False,True,False
+Akhils Ak Fitness,"Dr Subbarayan Road Agraharam, Salem",,5.0,3,Calisthenic-Gym,JustDial,Salem,Dr Subbarayan Road Agraharam,False,True,False
+K A 13 Fitness,"Dasarakoppalu Circle Salagame Road, Hassan",09724265594,5.0,53,Calisthenic-Gym,JustDial,Hassan,Dasarakoppalu Circle Salagame Road,False,False,False
+Ironstone Gym,"M G Road Bm Road, Hassan",,4.6,98,Calisthenic-Gym,JustDial,Hassan,M G Road Bm Road,False,True,False
+Reckon Dance Zumba & Fitness Studio LLP,"Dr. Shivaramkaranth Nagar Mcehslayout Hegde Nagar, Bangalore",07490847214,4.7,101,Dance & Zumba Studio,JustDial,Bangalore,Dr. Shivaramkaranth Nagar Mcehslayout Hegde Nagar,True,False,False
+Kink Moirai Dance & Zumba Fitness Studio,"Dasarahalli Main Road Hebbal, Bangalore",,5.0,34,Dance & Zumba Studio,JustDial,Bangalore,Dasarahalli Main Road Hebbal,False,True,False
+Moumitas' Zumba and Freestyle Dance Studio,"Vishwajit Layout Vignana Nagar, Bangalore",,4.8,20,Dance & Zumba Studio,JustDial,Bangalore,Vishwajit Layout Vignana Nagar,False,True,False
+D'senoras - Zumba & Dance Fitness Studio,"Brindavan Layout Road Horamavu, Bangalore",,4.3,3,Dance & Zumba Studio,JustDial,Bangalore,Brindavan Layout Road Horamavu,False,True,False
+Dance &Zumba Studio,"Pragati Puram Habibulla Nagar, Raebareli",,4.8,26,Dance & Zumba Studio,JustDial,Raebareli,Pragati Puram Habibulla Nagar,False,True,False
+8e1 Dance Studio,"Bannerghatta Road Arekere Village, Bangalore",,4.9,91,Dance & Zumba Studio,JustDial,Bangalore,Bannerghatta Road Arekere Village,False,True,False
+Dance Studio & Zumba Center,"Nagla Masani Pratibha Colony, Aligarh",,4.0,2,Dance & Zumba Studio,JustDial,Aligarh,Nagla Masani Pratibha Colony,False,True,False
+Dance To Fit Zumba Studio,"Tatabad 3rd Street Tatabad, Coimbatore",,4.8,44,Dance & Zumba Studio,JustDial,Coimbatore,Tatabad 3rd Street Tatabad,False,True,False
+Dance Beat(Dance & Zumba Fitness Studio),"Sector 12 Chopasni Housing Board, Jodhpur",,4.6,6,Dance & Zumba Studio,JustDial,Jodhpur,Sector 12 Chopasni Housing Board,False,True,False
+Dance Academy Zumba Studio Vadodara Baroda,"Sun Pharma Road Bhaili, Vadodara",,4.0,2,Dance & Zumba Studio,JustDial,Vadodara,Sun Pharma Road Bhaili,False,True,False
+Saraswathi Risen Eternal Zumba Dance Yoga Aerobics Fitness Academy,"Hosur Main Road Electronic City Phase 2, Bangalore",,4.7,41,Dance & Zumba Studio,JustDial,Bangalore,Hosur Main Road Electronic City Phase 2,False,True,False
+Machas Zumba & Dance Fitness,"Vmr Complex 4th Floor Kundalahalli, Bangalore",,4.9,520,Dance & Zumba Studio,JustDial,Bangalore,Vmr Complex 4th Floor Kundalahalli,False,True,False
+Santhus Zumba Dance And Yoga,"5th Cross C V Raman Nagar, Bangalore",,4.9,127,Dance & Zumba Studio,JustDial,Bangalore,C V Raman Nagar,False,True,False
+Alpha Zumba Dance Fitness Centre,"Double Road9th Main Road Ramamurthy Nagar, Bangalore",,4.5,42,Dance & Zumba Studio,JustDial,Bangalore,Double Road9th Main Road Ramamurthy Nagar,False,True,False
+ZUMBA & DANCE FITNESS,"Ayyappa Nagar-Krishnarajapura, Bangalore",,5.0,1,Dance & Zumba Studio,JustDial,Bangalore,Ayyappa Nagar-Krishnarajapura,False,True,False
+Zumba Fitness And Dance,"Dwaraka Nagar Bengaluru Nms Layout, Bangalore",,4.0,2,Dance & Zumba Studio,JustDial,Bangalore,Dwaraka Nagar Bengaluru Nms Layout,False,True,False
+Umesh Studio Dance & Zumba Fitness Classes,"B Wing 3rd Floor Patni Chowk, Washim",,4.7,9,Dance & Zumba Studio,JustDial,Washim,B Wing 3rd Floor Patni Chowk,False,True,False
+Aryashiva School Of Dance and Aerobic & Zumba Fitnes Studio,"Gowri Kaluve Chikmagalur Fort, Chikmagalur",09972950368,4.7,20,Dance & Zumba Studio,JustDial,Chikmagalur,Gowri Kaluve Chikmagalur Fort,False,False,False
+Funk Fusion Dance and Zumba Fitness Studio,"Gulmohor Road Savedi, Ahmednagar",08460456037,4.2,17,Dance & Zumba Studio,JustDial,Ahmednagar,Gulmohor Road Savedi,False,False,False
+Kommotion Studio Of Dance Zumba And Fitness,"Guru Nanak Vihar Race Course, Dehradun",,4.8,161,Dance & Zumba Studio,JustDial,Dehradun,Guru Nanak Vihar Race Course,False,True,False
+Rise and Shine Dance Zumba Aerobics Yoga Studio,"Street No 2 Lalammagarden Manikonda, Hyderabad",09054750518,4.8,301,Dance & Zumba Studio,JustDial,Hyderabad,Street No 2 Lalammagarden Manikonda,False,False,False
+Groove Galaxy Dance And Zumba Fitness Studio Lucknow,"Wazir Hussain Gokhale Vihar Marg, Lucknow",08123170861,4.9,12,Dance & Zumba Studio,JustDial,Lucknow,Wazir Hussain Gokhale Vihar Marg,False,False,False
+The Women S Power Zumba & Dance Studio,"Ramna Kharbi, Nagpur",,4.8,74,Dance & Zumba Studio,JustDial,Nagpur,Ramna Kharbi,False,True,False
+Rise and Shine Dance Zumba Aerobics Yoga Studio,"Street No:2 Manikonda, Hyderabad",08197651194,4.8,301,Dance & Zumba Studio,JustDial,Hyderabad,Street No:2 Manikonda,False,False,False
+Marvelouz Zumba & Fitness Studio,"Old Alwal-Alwal, Hyderabad",,4.8,90,Dance & Zumba Studio,JustDial,Hyderabad,Old Alwal-Alwal,False,True,False
+Kalpataa -power Yoga Zumba and Dance Studio,"Sanatana Eternal 1st Floor Himayat Nagar, Hyderabad",,4.6,250,Dance & Zumba Studio,JustDial,Hyderabad,Sanatana Eternal 1st Floor Himayat Nagar,False,True,False
+Zumba Aerobics Fitness & D Creation Dance Studio,"Gurudwara Road Model Town, Panipat",,4.0,3,Dance & Zumba Studio,JustDial,Panipat,Gurudwara Road Model Town,False,True,False
+Isha Space For Arts,"Judicial Layout Gkvk, Bangalore",,4.6,31,Dance & Zumba Studio,JustDial,Bangalore,Judicial Layout Gkvk,False,True,False
+YADHUVEER DANCE ACADEMY,"Basaveshwara Nagar, Bangalore",,2.5,2,Dance & Zumba Studio,JustDial,Bangalore,Basaveshwara Nagar,False,True,False
+Studio Of Passion,"Royal Mart Building 2nd Floor Padmanabhanagar, Bangalore",,4.8,4,Dance & Zumba Studio,JustDial,Bangalore,Royal Mart Building 2nd Floor Padmanabhanagar,False,True,False
+Zumba With Royston Whitefield,"Whitefield Whitefield Main Road, Bangalore",,4.0,2,Dance & Zumba Studio,JustDial,Bangalore,Whitefield Whitefield Main Road,False,True,False
+Guevaric Dancers,"7th Cross Wilson Garden, Bangalore",,4.8,8,Dance & Zumba Studio,JustDial,Bangalore,Wilson Garden,False,True,False
+Zumba Fitness Indiranagar,"100 Feet Road Indiranagar Indiranagar, Bangalore",,3.8,6,Dance & Zumba Studio,JustDial,Bangalore,100 Feet Road Indiranagar Indiranagar,False,True,False
+Dancing Butterflies Zumba,"Gandhi Bazaar main road Basavanagudi, Bangalore",,3.0,1,Dance & Zumba Studio,JustDial,Bangalore,Gandhi Bazaar main road Basavanagudi,False,True,False
+Dance Planet,"HSR LAYOUT SECTOR 5, Bangalore",,2.5,1,Dance & Zumba Studio,JustDial,Bangalore,HSR LAYOUT SECTOR 5,False,True,False
+Kyokushin Karate Mohan Dojo,"15th J Cross Road Bns Layout, Bangalore",,4.8,16,Karate Dojo,JustDial,Bangalore,Road Bns Layout,False,True,False
+Shaolin Karate - Okajima Dojo,"Jakkur Plantation, Bangalore",,4.3,3,Karate Dojo,JustDial,Bangalore,Jakkur Plantation,False,True,False
+Kyokushin Karate Anil Dojo Academy,"12th Main Road Hebbal, Bangalore",,4.7,10,Karate Dojo,JustDial,Bangalore,Hebbal,False,True,False
+Jska Karate Dojo,"Kothnur Village Main Road Jp Nagar, Bangalore",,4.6,19,Karate Dojo,JustDial,Bangalore,Kothnur Village Main Road Jp Nagar,False,True,False
+Shorin-Ryu Shobu-Kan Karate Dojo,"Annasandrapalya Extension, Bangalore",,4.7,8,Karate Dojo,JustDial,Bangalore,Annasandrapalya Extension,False,True,False
+Arakawa Wadokai Karate Do,"Bg Road Krishna Layout Extension, Bangalore",,3.0,2,Karate Dojo,JustDial,Bangalore,Bg Road Krishna Layout Extension,False,True,False
+The Dojo Karate Center,"Nagareshwara Nagenahalli Main Road K Narayanapura, Bangalore",,2.5,2,Karate Dojo,JustDial,Bangalore,Nagareshwara Nagenahalli Main Road K Narayanapura,False,True,False
+Karate Dojo,"Rajupeta Colony Ramalayam, Bhadrachalam",,5.0,1,Karate Dojo,JustDial,Bhadrachalam,Rajupeta Colony Ramalayam,False,True,False
+Karate Dojo Moga,"Basti Gobindgarh Road Nanak Pura, Moga",,4.6,5,Karate Dojo,JustDial,Moga,Basti Gobindgarh Road Nanak Pura,False,True,False
+Karate Dojo Den,"Balaji Mandir Pally Sushmapally, Kharagpur",,4.6,11,Karate Dojo,JustDial,Kharagpur,Balaji Mandir Pally Sushmapally,False,True,False
+The Karate Dojo,"Sitamani Sita Manimain Road, Korba",,4.3,3,Karate Dojo,JustDial,Korba,Sitamani Sita Manimain Road,False,True,False
+Dojo De Santa Cruz,"Bondir Wado Panaji Santa Cruz, Goa",,5.0,26,Karate Dojo,JustDial,Goa,Bondir Wado Panaji Santa Cruz,False,True,False
+Karate Dojo & Dream of Dance,"Bhagwat Nagar Chauraha, Patna",,4.9,1,Karate Dojo,JustDial,Patna,Bhagwat Nagar Chauraha,False,True,False
+Karate Dojo & Dream Of Dance Class,"Bhootnath Road Chitragupta Nagar, Patna",,4.9,136,Karate Dojo,JustDial,Patna,Bhootnath Road Chitragupta Nagar,False,True,False
+Karate Dojo (Office) Sensei Dinesh Choudhary,"Shop. No- 125 Ganesh Nagar Vistar Jaipur Jhotwara, Jaipur",,4.9,15,Karate Dojo,JustDial,Jaipur,Shop. No- 125 Ganesh Nagar Vistar Jaipur Jhotwara,False,True,False
+Karate Dojo,"S Lachit Nagar Main Road, Guwahati",,3.6,7,Karate Dojo,JustDial,Guwahati,S Lachit Nagar Main Road,False,True,False
+The Karate Dojo ( Martial-arts Academy),"VLM English School Sunder Nagar, Raipur-Chhattisgarh",,4.6,5,Karate Dojo,JustDial,Raipur-Chhattisgarh,VLM English School Sunder Nagar,False,True,False
+karate dojo,"ajmer Nagra, Ajmer",,3.5,2,Karate Dojo,JustDial,Ajmer,ajmer Nagra,False,True,False
+Karate Dojo Jaysree Sangha,"Joyshree Sangha Kalitala Kolkata Bansdroni, Kolkata",,5.0,9,Karate Dojo,JustDial,Kolkata,Joyshree Sangha Kalitala Kolkata Bansdroni,False,True,False
+Vel Dojo,"Mathikere Market Road Mathikere, Bangalore",,3.9,11,Karate Dojo,JustDial,Bangalore,Mathikere Market Road Mathikere,False,True,False
+Karate Class Indian Unique Karate Association (Shotokan Style),"Kereguddadahalli, Bangalore",,5.0,15,Karate Dojo,JustDial,Bangalore,Kereguddadahalli,False,True,False
+Seibudo Kai Karate Do Training School,"K. R. Road Jayanagar, Bangalore",,4.7,21,Karate Dojo,JustDial,Bangalore,K. R. Road Jayanagar,False,True,False
+Karate Academy,"Kodigehalli Main Road Krishnarajapuram, Bangalore",,5.0,94,Karate Dojo,JustDial,Bangalore,Kodigehalli Main Road Krishnarajapuram,False,True,False
+Karate And Martial Arts Classes Nelamangala,"Pes Vidya Kendra Nelamangala Town Nelamangala, Bangalore",,3.0,1,Karate Dojo,JustDial,Bangalore,Pes Vidya Kendra Nelamangala Town Nelamangala,False,True,False
+Karate Guru,"1 Street Main Road Ilyas Nagar, Bangalore",,4.8,31,Karate Dojo,JustDial,Bangalore,1 Street Main Road Ilyas Nagar,False,True,False
+Karate Association Jka India Karnataka,"Cil Layout, Bangalore",,4.1,10,Karate Dojo,JustDial,Bangalore,Cil Layout,False,True,False
+Karate & Fitness Classes,"Virat Nagar-Bommanahalli, Bangalore",,4.7,12,Karate Dojo,JustDial,Bangalore,Virat Nagar-Bommanahalli,False,True,False
+Karate Class (Shotokan),"J.p Nagar 6th Jp Nagar, Bangalore",,4.3,26,Karate Dojo,JustDial,Bangalore,J.p Nagar 6th Jp Nagar,False,True,False
+Karate Kick,"Heritage Noah's Ark Sarjapura, Bangalore",,5.0,3,Karate Dojo,JustDial,Bangalore,Heritage Noah's Ark Sarjapura,False,True,False
+Fitness Race,"Dinnur Main Road Rt Nagar, Bangalore",08105032618,4.5,382,Kickboxing-Studio,JustDial,Bangalore,Dinnur Main Road Rt Nagar,True,False,False
+Athletes Revolution Fitness Center,"Oil Mill Road Kammanahalli, Bangalore",08401150426,5.0,211,Kickboxing-Studio,JustDial,Bangalore,Oil Mill Road Kammanahalli,True,False,False
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",08511066401,4.6,367,Kickboxing-Studio,JustDial,Bangalore,Maruthi Nagar Madiwala,True,False,False
+Refinas Bangalore,"Richmond Rd Ashoknagar, Bangalore",09845468255,5.0,122,Kickboxing-Studio,JustDial,Bangalore,Richmond Rd Ashoknagar,False,False,False
+Furyinc.Co,Bangalore,09980116072,4.4,4,Kickboxing-Studio,JustDial,Bangalore,Bangalore,True,False,False
+Rba Of Arts,"Beml Layout Rajarajeshwari Nagar, Bangalore",09980539404,4.5,65,Kickboxing-Studio,JustDial,Bangalore,Beml Layout Rajarajeshwari Nagar,True,False,False
+Zest Fitness Studio,"HSR Layout Sector 7, Bangalore",,4.7,2,Kickboxing-Studio,JustDial,Bangalore,HSR Layout Sector 7,False,True,False
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",,4.1,1,Kickboxing-Studio,JustDial,Bangalore,Whitefield Main Road Whitefield,True,True,False
+Befiter Fitness,"11th Main Road Mathikere, Bangalore",,4.8,1,Kickboxing-Studio,JustDial,Bangalore,Mathikere,True,True,False
+Fitness Honor,"Arakere, Bangalore",,4.9,1,Kickboxing-Studio,JustDial,Bangalore,Arakere,False,True,False
+We Fitness Health And Wellness Centre,"23rd Main Jp Nagar 5th Phase, Bangalore",,4.4,1,Kickboxing-Studio,JustDial,Bangalore,Jp Nagar 5th Phase,True,True,False
+Cult Fit,"19th Main Road Hsr Layout Sector 1, Bangalore",,4.5,1,Kickboxing-Studio,JustDial,Bangalore,Hsr Layout Sector 1,False,True,False
+Fitness Zone,"Marathahalli Sarjapur Road HSR Layout, Bangalore",,4.8,871,Kickboxing-Studio,JustDial,Bangalore,Marathahalli Sarjapur Road HSR Layout,False,True,False
+Goldstar Fitness,"1st Main Road Venkateshwara Layout, Bangalore",,4.8,841,Kickboxing-Studio,JustDial,Bangalore,Venkateshwara Layout,False,True,False
+Evolution Fitness,"14th Cross Kumaraswamy Layout 2 Stage, Bangalore",,4.7,815,Kickboxing-Studio,JustDial,Bangalore,Kumaraswamy Layout 2 Stage,False,True,False
+Reach Fitness,"Opposite BMTC Bus Stand Chandra Layout, Bangalore",,4.6,832,Kickboxing-Studio,JustDial,Bangalore,Opposite BMTC Bus Stand Chandra Layout,False,True,False
+Accolades Batminton and Sports Academy,"8th Mile Peenya Nagasandra, Bangalore",,4.2,892,Kickboxing-Studio,JustDial,Bangalore,8th Mile Peenya Nagasandra,False,True,False
+Turbo Fitness Studio,"Btm 6th Stage Hulimavu, Bangalore",,4.6,792,Kickboxing-Studio,JustDial,Bangalore,Btm 6th Stage Hulimavu,False,True,False
+Kia-kaha Mma Academy,"1st Cross Road Koramangala, Bangalore",,4.6,775,Kickboxing-Studio,JustDial,Bangalore,Road Koramangala,False,True,False
+I Fitness,"K H Road Shanthinagar, Bangalore",,4.3,796,Kickboxing-Studio,JustDial,Bangalore,K H Road Shanthinagar,False,True,False
+Beast Fitness Studio,"Rachenahalli Bengaluru Thanisandra, Bangalore",,4.9,678,Kickboxing-Studio,JustDial,Bangalore,Rachenahalli Bengaluru Thanisandra,False,True,False
+Den.2.fit,"80 Feet Road Koramangala, Bangalore",,4.8,689,Kickboxing-Studio,JustDial,Bangalore,80 Feet Road Koramangala,False,True,False
+The Muscle Factory Unisex Gym,"60feet Road Brookefield, Bangalore",,4.6,717,Kickboxing-Studio,JustDial,Bangalore,Brookefield,False,True,False
+Fitness Tycoon,"22nd Cross Hsr Layout Sector 2, Bangalore",,4.5,709,Kickboxing-Studio,JustDial,Bangalore,Hsr Layout Sector 2,False,True,False
+Fitrig Gym,"Manipalcounty Road Bommanahalli, Bangalore",,4.6,687,Kickboxing-Studio,JustDial,Bangalore,Manipalcounty Road Bommanahalli,False,True,False
+Fitness Edge Sports Club,"Thindlu Main Road Vidyaranyapura, Bangalore",,4.9,643,Kickboxing-Studio,JustDial,Bangalore,Thindlu Main Road Vidyaranyapura,False,True,False
+Fitness Honor Devarachikkanahalli,"2nd Cross Road Bannerghatta Road, Bangalore",,4.8,634,Kickboxing-Studio,JustDial,Bangalore,Road Bannerghatta Road,False,True,False
+Dumbbells Gym,"Electronic City, Bangalore",,4.6,622,Kickboxing-Studio,JustDial,Bangalore,Electronic City,True,True,False
+Shree Tejaswi Fitness Center,"9th Main Rajajinagar 2nd Stage, Bangalore",,4.8,581,Kickboxing-Studio,JustDial,Bangalore,Rajajinagar 2nd Stage,False,True,False
+Satva Fitness,"Munnekollal Marathahalli, Bangalore",,3.9,702,Kickboxing-Studio,JustDial,Bangalore,Munnekollal Marathahalli,False,True,False
+Ramana Boxing Club,"Outer Ring Road Hrbr Layout, Bangalore",,4.4,620,Kickboxing-Studio,JustDial,Bangalore,Outer Ring Road Hrbr Layout,True,True,False
+Indian Fitness Fight Club,"Mg Layout Mullur, Bangalore",,4.9,555,Kickboxing-Studio,JustDial,Bangalore,Mg Layout Mullur,False,True,False
+Fitness Edge,"Kodigehalli Police Station Kodigehalli, Bangalore",,4.9,554,Kickboxing-Studio,JustDial,Bangalore,Kodigehalli Police Station Kodigehalli,False,True,False
+Absloute Fitness,"16th Main Rajajinagar 3rd Block, Bangalore",,4.9,554,Kickboxing-Studio,JustDial,Bangalore,Rajajinagar,False,True,False
+Poundd Fitness,"Old Airport Road Old Airport Road, Bangalore",,4.2,619,Kickboxing-Studio,JustDial,Bangalore,Old Airport Road Old Airport Road,True,True,False
+Game On Fitness,"Marathahalli Sarjapur Road Kaikondrahalli, Bangalore",,4.8,535,Kickboxing-Studio,JustDial,Bangalore,Marathahalli Sarjapur Road Kaikondrahalli,False,True,False
+T99 Fitness,"HORAMAVU MAIN ROAD Horamavu, Bangalore",,4.5,547,Kickboxing-Studio,JustDial,Bangalore,HORAMAVU MAIN ROAD Horamavu,False,True,False
+Bangalore Boxing Club,"Vyalikaval Hbcs Layout Nagawara, Bangalore",,4.6,521,Kickboxing-Studio,JustDial,Bangalore,Vyalikaval Hbcs Layout Nagawara,False,True,False
+Gym Fitness Hub,"Hebbagodi, Bangalore",,4.8,493,Kickboxing-Studio,JustDial,Bangalore,Hebbagodi,False,True,False
+Crossfit,"Anekal Main Road Tavarekere Road, Bangalore",,4.8,486,Kickboxing-Studio,JustDial,Bangalore,Anekal Main Road Tavarekere Road,False,True,False
+Health & Fitness Gym,"19 Khb Colony 5th Block Bengaluru Koramangala, Bangalore",,4.9,476,Kickboxing-Studio,JustDial,Bangalore,19 Khb Colony Bengaluru Koramangala,True,True,False
+Fitness First,"100 Feet Inner Ring Road Koramangala, Bangalore",,3.9,584,Kickboxing-Studio,JustDial,Bangalore,100 Feet Inner Ring Road Koramangala,True,True,False
+Revive - The Elite Fitness Club,"Seegehalli Road Chaitanya Ananya, Bangalore",,4.9,458,Kickboxing-Studio,JustDial,Bangalore,Seegehalli Road Chaitanya Ananya,False,True,False
+Jaguar Fitness Maruthi Nagar,"Maruthi Nagar Madiwala, Bangalore",08511066401,4.6,367,Pilates Studio,JustDial,Bangalore,Maruthi Nagar Madiwala,True,False,False
+Reboot Fitness and Dance Studio,"Ombr Layout-Banaswadi, Bangalore",09980229077,4.5,39,Pilates Studio,JustDial,Bangalore,Ombr Layout-Banaswadi,True,False,False
+Fitness Empire,"Outer Ring Road Marathahalli, Bangalore",,4.7,1,Pilates Studio,JustDial,Bangalore,Outer Ring Road Marathahalli,True,True,False
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",,4.1,1,Pilates Studio,JustDial,Bangalore,Whitefield Main Road Whitefield,True,True,False
+Therige Bhavana,"Vinayaka Layout Nagarbhavi 2nd Stage, Bangalore",,4.0,1,Pilates Studio,JustDial,Bangalore,Vinayaka Layout Nagarbhavi 2nd Stage,False,True,False
+We Fitness Health And Wellness Centre,"23rd Main Jp Nagar 5th Phase, Bangalore",,4.4,1,Pilates Studio,JustDial,Bangalore,Jp Nagar 5th Phase,True,True,False
+V K Sports,"Kaggadasapura Main Road Kagadasspura, Bangalore",,3.9,1,Pilates Studio,JustDial,Bangalore,Kaggadasapura Main Road Kagadasspura,False,True,False
+Fit City Gym,"8th Cross Road C V Raman Nagar, Bangalore",,5.0,922,Pilates Studio,JustDial,Bangalore,Road C V Raman Nagar,False,True,False
+Dynamic Fitness,"Bannerghatta Main Road BTM Layout 2nd Stage, Bangalore",,4.9,782,Pilates Studio,JustDial,Bangalore,Bannerghatta Main Road BTM Layout 2nd Stage,False,True,False
+Zela Luxury Health Clubs,"Residency Road Residency Road, Bangalore",,4.0,910,Pilates Studio,JustDial,Bangalore,Residency Road Residency Road,False,True,False
+Plej Fitness,"Green Glen Layout Bellandur, Bangalore",,4.0,884,Pilates Studio,JustDial,Bangalore,Green Glen Layout Bellandur,False,True,False
+Dumbbells Gym,"Electronic City, Bangalore",,4.6,622,Pilates Studio,JustDial,Bangalore,Electronic City,True,True,False
+Xna Fitness,"Yellanahalli, Bangalore",,4.7,608,Pilates Studio,JustDial,Bangalore,Yellanahalli,False,True,False
+Poundd Fitness,"Old Airport Road Old Airport Road, Bangalore",,4.2,619,Pilates Studio,JustDial,Bangalore,Old Airport Road Old Airport Road,True,True,False
+Muscle Tech,"Guddahalli Thammenahalli Village, Bangalore",,4.8,520,Pilates Studio,JustDial,Bangalore,Guddahalli Thammenahalli Village,False,True,False
+Fitness Ace,"Lakshmi Srinivasa Complex Rt Nagar, Bangalore",,4.3,569,Pilates Studio,JustDial,Bangalore,Lakshmi Srinivasa Complex Rt Nagar,False,True,False
+Apple Fitness,"5th A Cross Kalyan Nagar, Bangalore",,4.1,583,Pilates Studio,JustDial,Bangalore,Kalyan Nagar,False,True,False
+Fitness First (Eva Mall),"Brigade Road Brigade Road, Bangalore",,4.0,594,Pilates Studio,JustDial,Bangalore,Brigade Road Brigade Road,True,True,False
+Transformers An Athletic Lab,"16th Main Road BTM Layout 2nd Stage, Bangalore",,4.6,512,Pilates Studio,JustDial,Bangalore,BTM Layout 2nd Stage,False,True,False
+Fitness First,"100 Feet Inner Ring Road Koramangala, Bangalore",,3.9,584,Pilates Studio,JustDial,Bangalore,100 Feet Inner Ring Road Koramangala,True,True,False
+Addict Fitness,"80 Feet Road Kathriguppe, Bangalore",,4.9,448,Pilates Studio,JustDial,Bangalore,80 Feet Road Kathriguppe,False,True,False
+Stayfit Health & Fitness World Pvt Ltd,"30th Cross Jayanagar 4th Block, Bangalore",,4.4,462,Pilates Studio,JustDial,Bangalore,Jayanagar,False,True,False
+Rapid Sport Fitness,"Guava Garden KHB Road Koramangala 5th Block, Bangalore",,4.9,387,Pilates Studio,JustDial,Bangalore,Guava Garden KHB Road Koramangala,False,True,False
+Talwalkars Gym,"Bellary Road Sadashivanagar, Bangalore",,3.9,478,Pilates Studio,JustDial,Bangalore,Bellary Road Sadashivanagar,False,True,False
+Moveza Fitness,"1st Main Road Rajajinagar, Bangalore",,4.5,401,Pilates Studio,JustDial,Bangalore,Rajajinagar,False,True,False
+Changeover Fitness Studio,"Govindaraj Nagar-Vijaynagar, Bangalore",,4.4,372,Pilates Studio,JustDial,Bangalore,Govindaraj Nagar-Vijaynagar,False,True,False
+Rhythmic Feet Fitness and Dance,"1st Main Koramangala 8th Block, Bangalore",,4.6,354,Pilates Studio,JustDial,Bangalore,Koramangala,False,True,False
+Bodhi School Of Yoga,"Hoysala Nagar-Indiranagar, Bangalore",,4.9,322,Pilates Studio,JustDial,Bangalore,Hoysala Nagar-Indiranagar,True,True,False
+Siddhi Fitness Studio,"2nd Floor Jp Nagar 7th Phase, Bangalore",,5.0,308,Pilates Studio,JustDial,Bangalore,2nd Floor Jp Nagar 7th Phase,False,True,False
+Fit Squad,"Banaswadi Main Road Banaswadi, Bangalore",,4.5,337,Pilates Studio,JustDial,Bangalore,Banaswadi Main Road Banaswadi,False,True,False
+Barbellhouse,"3rd Main Road Rajarajeshwari Nagar, Bangalore",,5.0,302,Pilates Studio,JustDial,Bangalore,Rajarajeshwari Nagar,False,True,False
+Evolve Fitness Studio,"9th Crs Jayanagar 9th Block, Bangalore",,4.3,348,Pilates Studio,JustDial,Bangalore,9th Crs Jayanagar,False,True,False
+Dhrutham Studio Of Dance,"Ramamurthy Nagar, Bangalore",,4.9,300,Pilates Studio,JustDial,Bangalore,Ramamurthy Nagar,False,True,False
+Chisel Fitness,"80 Feet Road Vijayanagar, Bangalore",,4.4,316,Pilates Studio,JustDial,Bangalore,80 Feet Road Vijayanagar,False,True,False
+Studio Venus,"24th Main Jp Nagar, Bangalore",,4.5,299,Pilates Studio,JustDial,Bangalore,Jp Nagar,False,True,False
+S 4 Fitness,"100 Feet Main Road Jayanagar 2nd Block, Bangalore",,4.1,317,Pilates Studio,JustDial,Bangalore,100 Feet Main Road Jayanagar,False,True,False
+Mani's Core Fit,"Malleswaram, Bangalore",,4.8,261,Pilates Studio,JustDial,Bangalore,Malleswaram,True,True,False
+Feminine Gym,"Kammanahalli, Bangalore",,4.8,259,Pilates Studio,JustDial,Bangalore,Kammanahalli,False,True,False
+Maxburn Fitness Studio & Gym,"6th Block Kormangala Koramangala 6th Block, Bangalore",,4.6,249,Pilates Studio,JustDial,Bangalore,Kormangala Koramangala,False,True,False
+Vriddhi Fitness And Wellness,"Bannerghatta Main Road Bannerghatta Road, Bangalore",,4.3,254,Pilates Studio,JustDial,Bangalore,Bannerghatta Main Road Bannerghatta Road,False,True,False
+GROUP EX FITNESS,"80Feet RT Nagar Main Road Rt Nagar, Bangalore",,4.6,237,Pilates Studio,JustDial,Bangalore,80Feet RT Nagar Main Road Rt Nagar,False,True,False
+Step N Move Dance Academy,"Kothanur Post Office Road Kothanur, Bangalore",,4.8,226,Pilates Studio,JustDial,Bangalore,Kothanur Post Office Road Kothanur,False,True,False
+Cross Fit,"Jindal, Bangalore",,4.4,223,Pilates Studio,JustDial,Bangalore,Jindal,False,True,False
+Shadowz One Dance And Fitness Studio,"Amruthalli Main Road Jakkur Jakkur, Bangalore",,4.7,203,Pilates Studio,JustDial,Bangalore,Amruthalli Main Road Jakkur Jakkur,False,True,False
+Fiesta Zumba Fitness Studio,"Devarchikkanahalli Road Chikkanahalli Road, Bangalore",,4.5,203,Pilates Studio,JustDial,Bangalore,Devarchikkanahalli Road Chikkanahalli Road,False,True,False
+Tiger Gym,"Anjanapura, Bangalore",,4.9,180,Pilates Studio,JustDial,Bangalore,Anjanapura,False,True,False
+Republic Fitness,"Vasanthapura Main Road Vasanthpura, Bangalore",,4.7,169,Pilates Studio,JustDial,Bangalore,Vasanthapura Main Road Vasanthpura,False,True,False
+Beyond Fitness,"Ms Ramaiah Road Mathikere, Bangalore",,4.8,154,Pilates Studio,JustDial,Bangalore,Ms Ramaiah Road Mathikere,False,True,False
+Adapt Fitness,"Pottery Road Frazer Town, Bangalore",,4.5,163,Pilates Studio,JustDial,Bangalore,Pottery Road Frazer Town,False,True,False
+Group Fitness Studio,"Kalyan Nagar, Bangalore",,4.9,148,Pilates Studio,JustDial,Bangalore,Kalyan Nagar,False,True,False
+R K Fitness Gym,"3rd Cross Umarbagh Layout, Bangalore",,4.6,156,Pilates Studio,JustDial,Bangalore,Umarbagh Layout,False,True,False
+Cult Fit,"Konanakunte Main Road Konanakunte Cross, Bangalore",,3.6,196,Pilates Studio,JustDial,Bangalore,Konanakunte Main Road Konanakunte Cross,False,True,False
+Pilates Circle By Cult,"Koramangala, Bangalore",,4.9,141,Pilates Studio,JustDial,Bangalore,Koramangala,False,True,False
+My Beat Dance And Fitness Studio,"Manipal County Road Aecs B Block, Bangalore",,4.8,141,Pilates Studio,JustDial,Bangalore,Manipal County Road Aecs B Block,False,True,False
+I3 Fitness,"Nagarabhavi Ring Road Nagarbhavi 2nd Stage, Bangalore",,4.3,157,Pilates Studio,JustDial,Bangalore,Nagarabhavi Ring Road Nagarbhavi 2nd Stage,False,True,False
+Pilates for Wellbeing,"Kasturba Cross Road Lavelle Road, Bangalore",,4.6,146,Pilates Studio,JustDial,Bangalore,Kasturba Cross Road Lavelle Road,False,True,False
+Highline Fitness 24x7,"R T Nagar Main Road Rt Nagar, Bangalore",,4.3,156,Pilates Studio,JustDial,Bangalore,R T Nagar Main Road Rt Nagar,False,True,False
+Sparsh Yoga Centre,"24th Main Jp Nagar 6th Phase, Bangalore",,4.8,130,Pilates Studio,JustDial,Bangalore,Jp Nagar 6th Phase,True,True,False
+Horse Fitness,"Basaveshwaranagar Main Road Basaveshwara Nagar, Bangalore",,4.6,133,Pilates Studio,JustDial,Bangalore,Basaveshwaranagar Main Road Basaveshwara Nagar,False,True,False
+Synergy Multi Aerobics Studio,"Teachers Colony-Koramangala, Bangalore",,4.9,124,Pilates Studio,JustDial,Bangalore,Teachers Colony-Koramangala,False,True,False
+Haadee Fitness Club,"9th Main Road Kalyan Nagar, Bangalore",,4.4,138,Pilates Studio,JustDial,Bangalore,Kalyan Nagar,False,True,False
+Purple Pilates,"HSR Sector5/jakkasandra Koramangala 1st Block, Bangalore",,5.0,117,Pilates Studio,JustDial,Bangalore,HSR Sector5/jakkasandra Koramangala,False,True,False
+KM3 Platinum Fitness,"Peenya 2nd Stage Hegganahalli Cross, Bangalore",,4.9,113,Pilates Studio,JustDial,Bangalore,Peenya 2nd Stage Hegganahalli Cross,False,True,False
+SWEAT GROUP EX,"B Block Sahakara Nagar, Bangalore",,3.8,140,Pilates Studio,JustDial,Bangalore,B Block Sahakara Nagar,False,True,False
+Haadee Fitness Floor & Gym,"Hormavu Main Road Banaswadi, Bangalore",,4.6,112,Pilates Studio,JustDial,Bangalore,Hormavu Main Road Banaswadi,False,True,False
+H2o Studioz,"Marathahalli Outer Ring Road Marathahalli, Bangalore",,5.0,98,Pilates Studio,JustDial,Bangalore,Marathahalli Outer Ring Road Marathahalli,False,True,False
+Breathe Wellness,"Puttenahalli Main Road Jp Nagar 7th Phase, Bangalore",,4.8,101,Pilates Studio,JustDial,Bangalore,Puttenahalli Main Road Jp Nagar 7th Phase,False,True,False
+Arivu School Of Yoga,"2nd Cross Dasarahalli Hebbal, Bangalore",,5.0,94,Pilates Studio,JustDial,Bangalore,Dasarahalli Hebbal,False,True,False
+Dr. Pilates Studio,"Horamavu Main Road Banaswadi, Bangalore",,4.9,89,Pilates Studio,JustDial,Bangalore,Horamavu Main Road Banaswadi,False,True,False
+Palladium Dance Company,"17th Main Road Koramangala 5th Block, Bangalore",,4.7,91,Pilates Studio,JustDial,Bangalore,Koramangala,False,True,False
+Yug Yoga,"14th Main Road Sahakara Nagar, Bangalore",,4.6,91,Pilates Studio,JustDial,Bangalore,Sahakara Nagar,False,True,False
+Fille Fitness Only Ladies Gym,"Mosque Road Frazer Town, Bangalore",,4.2,96,Pilates Studio,JustDial,Bangalore,Mosque Road Frazer Town,False,True,False
+Coxbull Fitness,"9th Main Road Babusapalya, Bangalore",,4.8,81,Pilates Studio,JustDial,Bangalore,Babusapalya,False,True,False
+Tejas Studio,"Sarjapur Road Attibele, Bangalore",,4.9,77,Pilates Studio,JustDial,Bangalore,Sarjapur Road Attibele,False,True,False
+Pilates Hub,"27th Main Road Hsr Layout, Bangalore",,4.9,75,Pilates Studio,JustDial,Bangalore,Hsr Layout,False,True,False
+Equinox Fitness Studio,"80 Feet Road Rt Nagar, Bangalore",,4.2,86,Pilates Studio,JustDial,Bangalore,80 Feet Road Rt Nagar,False,True,False
+Yog Gokul,"Off 80 Feet Road Koramangala 4th Block, Bangalore",,4.8,74,Pilates Studio,JustDial,Bangalore,Off 80 Feet Road Koramangala,False,True,False
+Workout Hub,"4th Stage Basaveshwara Nagar, Bangalore",,4.3,80,Pilates Studio,JustDial,Bangalore,4th Stage Basaveshwara Nagar,False,True,False
+Swami Vivekananda Yoga Kuteera,"Sahayadri Layout Sidedahalli, Bangalore",,5.0,68,Pilates Studio,JustDial,Bangalore,Sahayadri Layout Sidedahalli,False,True,False
+Pilates Lab,"1st Main Road Byataranyanapura, Bangalore",,4.9,67,Pilates Studio,JustDial,Bangalore,Byataranyanapura,False,True,False
+Nature Essential S Pa and Salon,"Nagarbhavi, Bangalore",,4.6,68,Pilates Studio,JustDial,Bangalore,Nagarbhavi,False,True,False
+Leap Yoga & Fitness,"Robertson Road Frazer Town, Bangalore",,5.0,60,Pilates Studio,JustDial,Bangalore,Robertson Road Frazer Town,False,True,False
+Adhyatma Yoga,"26th Main Jayanagar 9th Block, Bangalore",,4.4,67,Pilates Studio,JustDial,Bangalore,Jayanagar,False,True,False
+Corepilates,"3rd Floor RMV Extension 2nd Stage, Bangalore",,4.7,60,Pilates Studio,JustDial,Bangalore,3rd Floor RMV Extension 2nd Stage,False,True,False
+Sri Acharya Yoga,"Dollars Colony-RMV 2nd Stage, Bangalore",,4.9,54,Pilates Studio,JustDial,Bangalore,Dollars Colony-RMV 2nd Stage,False,True,False
+Mrudavae Yogashala,"Panathur Post Bellandur, Bangalore",,4.8,55,Pilates Studio,JustDial,Bangalore,Panathur Post Bellandur,False,True,False
+The Piilates Studio,"Sair Bagh Cunningham Road, Bangalore",,4.0,65,Pilates Studio,JustDial,Bangalore,Sair Bagh Cunningham Road,False,True,False
+Reform Pilates Studio,"Hennur Bagalur Main Road Byrathi, Bangalore",,4.6,51,Pilates Studio,JustDial,Bangalore,Hennur Bagalur Main Road Byrathi,False,True,False
+Stance Active,"22nd Cross Roadclub Road Hsr Layout, Bangalore",,5.0,46,Pilates Studio,JustDial,Bangalore,Roadclub Road Hsr Layout,False,True,False
+Taekwondo Academy Of,"18th Cross Road Nagaraja Garden, Bangalore",,5.0,1,Taekwondo-Academy,JustDial,Bangalore,Road Nagaraja Garden,False,True,False
+Vicktors Taekwondo Academy And Gym,"Bengaluru Kalkere Bengaluru Dodda Kempaiah Layout, Bangalore",,4.8,2,Taekwondo-Academy,JustDial,Bangalore,Bengaluru Kalkere Bengaluru Dodda Kempaiah Layout,False,True,False
+Shankar Taekwondo Academy,"Muthyalamma Temple Road Doddaballapur, Bangalore",,4.5,18,Taekwondo-Academy,JustDial,Bangalore,Muthyalamma Temple Road Doddaballapur,False,True,False
+Sun Taekwondo Academy,"Vinayaka Layout-Nagarbhavi, Bangalore",,5.0,86,Taekwondo-Academy,JustDial,Bangalore,Vinayaka Layout-Nagarbhavi,False,True,False
+Kwans Taekwondo Academy,"Hill View Residency Road Uttarahalli, Bangalore",,4.9,96,Taekwondo-Academy,JustDial,Bangalore,Hill View Residency Road Uttarahalli,False,True,False
+Deccan Taekwondo Academy,"Rrmp Extension K H Road, Bangalore",,4.8,250,Taekwondo-Academy,JustDial,Bangalore,Rrmp Extension K H Road,False,True,False
+Wings Taekwondo Academy,"Banaswadi, Bangalore",,4.9,39,Taekwondo-Academy,JustDial,Bangalore,Banaswadi,False,True,False
+Skanda Taekwondo Academy,"#121 2nd Main Road Sahakara Nagar, Bangalore",,5.0,212,Taekwondo-Academy,JustDial,Bangalore,#121 Sahakara Nagar,False,True,False
+CTA Taekwondo And Fitness Academy,"2nd Cross GNR Gardens Babusapalya, Bangalore",,5.0,152,Taekwondo-Academy,JustDial,Bangalore,GNR Gardens Babusapalya,False,True,False
+Asian Taekwondo Academy And Fitness Centre,"Rt Nagar 5th Main Road Rt Nagar, Bangalore",,4.9,47,Taekwondo-Academy,JustDial,Bangalore,Rt Nagar Rt Nagar,False,True,False
+Sri Sai Taekwondo Academy,"6th Cross Road Kogilu, Bangalore",,5.0,22,Taekwondo-Academy,JustDial,Bangalore,Road Kogilu,False,True,False
+Taureaux Taekwondo Academy,"Hanumantha Nagar-Banashankari, Bangalore",,5.0,82,Taekwondo-Academy,JustDial,Bangalore,Hanumantha Nagar-Banashankari,False,True,False
+Skanda Taekwondo Academy,"Byataranyanapura, Bangalore",,5.0,207,Taekwondo-Academy,JustDial,Bangalore,Byataranyanapura,False,True,False
+Kims Taekwondo Academy,"7th Main Road Subbanapalaya, Bangalore",,4.7,18,Taekwondo-Academy,JustDial,Bangalore,Subbanapalaya,False,True,False
+Jpl Taekwondo Academy,"Main Road Golahalli, Bangalore",,4.9,27,Taekwondo-Academy,JustDial,Bangalore,Main Road Golahalli,False,True,False
+M-Spirit Taekwondo Academy,"Rayasandra Main Road Naganathapura, Bangalore",,5.0,29,Taekwondo-Academy,JustDial,Bangalore,Rayasandra Main Road Naganathapura,False,True,False
+Chanakyas Taekwondo And Fitness Academy,"Vidyaranyapura, Bangalore",,4.9,99,Taekwondo-Academy,JustDial,Bangalore,Vidyaranyapura,False,True,False
+Shree Taekwondo Academy,"1st Sector Hsr Layout, Bangalore",,4.2,30,Taekwondo-Academy,JustDial,Bangalore,1st Sector Hsr Layout,False,True,False
+Taureaux Taekwondo Academy Btm,"BTM Layout 2nd Stage, Bangalore",,4.4,40,Taekwondo-Academy,JustDial,Bangalore,BTM Layout 2nd Stage,False,True,False
+Wrm Taekwondo Academy And Fitness Centre,"Victoria Layout Victoria Road, Bangalore",,4.6,31,Taekwondo-Academy,JustDial,Bangalore,Victoria Layout Victoria Road,False,True,False
+Manju Taekwondo Academy,"Thigala Chowdadenahalli Dommasandra, Bangalore",,4.9,6,Taekwondo-Academy,JustDial,Bangalore,Thigala Chowdadenahalli Dommasandra,False,True,False
+R W T F Taekwondo Academy,"Yelahanka, Bangalore",,3.5,9,Taekwondo-Academy,JustDial,Bangalore,Yelahanka,False,True,False
+Ecseed Taekwondo Academy,"Agb Layout Chikkabanavara Bengaluru Chikbanavara, Bangalore",,4.8,22,Taekwondo-Academy,JustDial,Bangalore,Agb Layout Chikkabanavara Bengaluru Chikbanavara,False,True,False
+Cures Foundation And Chanakya's Taekwondo And Fitness Academy (R),"Sai Baba Temple Next Vidyaranyapura, Bangalore",,5.0,5,Taekwondo-Academy,JustDial,Bangalore,Sai Baba Temple Next Vidyaranyapura,False,True,False
+S I Central Taekwondo Academy,"4th Cross Road Vijayanagar, Bangalore",,4.9,48,Taekwondo-Academy,JustDial,Bangalore,Road Vijayanagar,False,True,False
+S I Central Taekwondo Academy,"Opp.Hampinagar Bus Stand Rpc Layout, Bangalore",,4.9,30,Taekwondo-Academy,JustDial,Bangalore,Opp.Hampinagar Bus Stand Rpc Layout,False,True,False
+Phoenix Taekwondo Academy,"13th Cross Road Goripalya, Bangalore",,4.7,7,Taekwondo-Academy,JustDial,Bangalore,Road Goripalya,False,True,False
+Fighters Taekwondo Academy,"Muthyalamma Temple Complex Doddaballapura Doddaballapur, Bangalore",,4.9,20,Taekwondo-Academy,JustDial,Bangalore,Muthyalamma Temple Complex Doddaballapura Doddaballapur,False,True,False
+Global Mission Taekwondo Academy (Closed Down),"Nandanam Colony Banaswadi Main Road, Bangalore",,4.9,136,Taekwondo-Academy,JustDial,Bangalore,Nandanam Colony Banaswadi Main Road,False,True,False
+Karnataka Sports And Taekwondo Academy,"2nd Stage Rajajinagar, Bangalore",,5.0,2,Taekwondo-Academy,JustDial,Bangalore,2nd Stage Rajajinagar,False,True,False
+Star Taekwondo Academy,"Netajinagar T Dasarahalli, Bangalore",,4.9,13,Taekwondo-Academy,JustDial,Bangalore,Netajinagar T Dasarahalli,False,True,False
+Taureaux Taekwondo Academy JP Nagar (Closed Down),"Kothnur Main Road Jp Nagar 7th Phase, Bangalore",,5.0,8,Taekwondo-Academy,JustDial,Bangalore,Kothnur Main Road Jp Nagar 7th Phase,False,True,False
+Aryans Taekwondo Academy,"Virgonagar, Bangalore",,5.0,15,Taekwondo-Academy,JustDial,Bangalore,Virgonagar,False,True,False
+Nac Taekwondo Academy,"16th B Cross Road Yelahanka New Town, Bangalore",,5.0,14,Taekwondo-Academy,JustDial,Bangalore,Road Yelahanka New Town,False,True,False
+Hi Tech Taekwondo Academy,"17th G Main Road Rajajinagar 5th Block, Bangalore",,4.0,10,Taekwondo-Academy,JustDial,Bangalore,Rajajinagar,False,True,False
+Wrm Taekwondo Academy,"No.26 2nd Floor Akashya Commercial Complex Victoria Layout, Bangalore",,5.0,4,Taekwondo-Academy,JustDial,Bangalore,No.26 2nd Floor Akashya Commercial Complex Victoria Layout,False,True,False
+Zenith Taekwondo Academy,"Spencer Road Pulikeshi Nagar, Bangalore",,4.0,3,Taekwondo-Academy,JustDial,Bangalore,Spencer Road Pulikeshi Nagar,False,True,False
+Srv Taekwondo Academy,"Yelahanka New Town, Bangalore",,4.8,10,Taekwondo-Academy,JustDial,Bangalore,Yelahanka New Town,False,True,False
+Vital Momentum Fitness & Taekwondo Academy,"Sultanpalya Main Road Rt Nagar, Bangalore",,5.0,1,Taekwondo-Academy,JustDial,Bangalore,Sultanpalya Main Road Rt Nagar,False,True,False
+Mauryan Taekwondo Academy,"17th Cross Road Agrahara Dasarahalli, Bangalore",,5.0,11,Taekwondo-Academy,JustDial,Bangalore,Road Agrahara Dasarahalli,False,True,False
+Girinagar Taekwondo Academy,"2nd Phase Girinagar, Bangalore",,5.0,2,Taekwondo-Academy,JustDial,Bangalore,2nd Phase Girinagar,False,True,False
+Red Ant Taekwondo Academy,"1st Cross Road Ganga Nagar Extension, Bangalore",,4.6,8,Taekwondo-Academy,JustDial,Bangalore,Road Ganga Nagar Extension,False,True,False
+Karnataka Taekwondo Academy,"Rs Garden Bommasandra, Bangalore",,5.0,6,Taekwondo-Academy,JustDial,Bangalore,Rs Garden Bommasandra,False,True,False
+Bheeshma Taekwondo Academy,"Thyagaraj Nagar, Bangalore",,4.5,4,Taekwondo-Academy,JustDial,Bangalore,Thyagaraj Nagar,False,True,False
+The Happy Yoga Community,"23rd Cross Jayanagar 7th Block, Bangalore",09725979029,4.7,219,Yoga Centre,JustDial,Bangalore,Jayanagar,True,False,False
+Dr. Latha Shekhars Holistic Wellness Centre,"VENKATESH MURTHY RD. Banashankari, Bangalore",09980134963,4.7,366,Yoga Centre,JustDial,Bangalore,VENKATESH MURTHY RD. Banashankari,False,False,False
+Vishwa Poornima Yoga Centre,"2nd Stage Indiranagar, Bangalore",08128726662,4.8,552,Yoga Centre,JustDial,Bangalore,2nd Stage Indiranagar,False,False,False
+Ashish Yoga Fitness,"Brookfield Marathahalli, Bangalore",,4.9,1,Yoga Centre,JustDial,Bangalore,Brookfield Marathahalli,False,True,False
+Yogamaya - Yoga 4 All,"19th Main Road Mc Layout, Bangalore",,4.9,1,Yoga Centre,JustDial,Bangalore,Mc Layout,False,True,False
+Gold's Gym,"Whitefield Main Road Whitefield, Bangalore",,4.1,1,Yoga Centre,JustDial,Bangalore,Whitefield Main Road Whitefield,True,True,False
+Swami Vivekananda Yoga Anusandhana Samsthana,"Giddenahalli Road Jigani, Bangalore",,4.3,1,Yoga Centre,JustDial,Bangalore,Giddenahalli Road Jigani,False,True,False
+Art Of Living Yoga And Meditation,"2nd B Cross Girinagar, Bangalore",,4.9,889,Yoga Centre,JustDial,Bangalore,Girinagar,False,True,False
+Sri Sri School Of Yoga,"21st Km Kanakapura Road, Bangalore",,5.0,811,Yoga Centre,JustDial,Bangalore,21st Km Kanakapura Road,False,True,False
+Paripurna Yoga Kendra,"10th A Cross Yelahanka New Town, Bangalore",,5.0,720,Yoga Centre,JustDial,Bangalore,Yelahanka New Town,False,True,False
+Sai Power Yoga Institute,"Bannerghatta Road Akshayanagar, Bangalore",,5.0,587,Yoga Centre,JustDial,Bangalore,Bannerghatta Road Akshayanagar,False,True,False
+Sri Siddhalingeshwara Yoga Vana Hills,"Amruthur Road Yediyur, Bangalore",,3.6,791,Yoga Centre,JustDial,Bangalore,Amruthur Road Yediyur,False,True,False
+Sri Sai Powar Yoga Institute,"2nd Cross Road Devarachikkana Halli, Bangalore",,5.0,568,Yoga Centre,JustDial,Bangalore,Road Devarachikkana Halli,False,True,False
+Isha Hatha Yoga,"An Gupta Layout, Bangalore",,5.0,553,Yoga Centre,JustDial,Bangalore,An Gupta Layout,False,True,False
+God Gift Yoga and Nature Cure Centre,"Sultan Palya Main Road Rt Nagar, Bangalore",,4.7,556,Yoga Centre,JustDial,Bangalore,Sultan Palya Main Road Rt Nagar,False,True,False
+Be And Make Swami Vivekananda Yoga For Total Health And Peace,"10th Main Malleshpalya, Bangalore",,4.8,372,Yoga Centre,JustDial,Bangalore,Malleshpalya,False,True,False
+Rashtrothana Yoga & Fitness Centre,"9th Cross Sadashivanagar, Bangalore",,4.8,370,Yoga Centre,JustDial,Bangalore,Sadashivanagar,False,True,False
+Yoga Paanchajanya Yoga,"Ranka Colony Road Bilekahalli, Bangalore",,4.9,350,Yoga Centre,JustDial,Bangalore,Ranka Colony Road Bilekahalli,False,True,False
+Akshar Yoga,"13th Cross Sadashivanagar, Bangalore",,4.1,414,Yoga Centre,JustDial,Bangalore,Sadashivanagar,False,True,False
+Sri Ramana Maharshi Foundation,"Anekal Taluk Attibele, Bangalore",,4.5,371,Yoga Centre,JustDial,Bangalore,Anekal Taluk Attibele,False,True,False
+Yoga Kulam,"CBI Road Rt Nagar, Bangalore",,4.9,335,Yoga Centre,JustDial,Bangalore,CBI Road Rt Nagar,False,True,False
+Aarogyadwar Holistic Center,"Basavanagar Main Road Basava Nagar, Bangalore",,5.0,321,Yoga Centre,JustDial,Bangalore,Basavanagar Main Road Basava Nagar,False,True,False
+Bodhi Yoga Academy,"10th Main Road Jayanagar, Bangalore",,4.9,322,Yoga Centre,JustDial,Bangalore,Jayanagar,False,True,False
+Bodhi School Of Yoga,"Hoysala Nagar-Indiranagar, Bangalore",,4.9,322,Yoga Centre,JustDial,Bangalore,Hoysala Nagar-Indiranagar,True,True,False
+Vask Yoga Centre,"4th Main Road Hessargatta Main Road, Bangalore",,4.5,347,Yoga Centre,JustDial,Bangalore,Hessargatta Main Road,False,True,False
+Sri Raksha Yoga Kendra,"Balaji Street Ramamurthy Nagar, Bangalore",,4.9,313,Yoga Centre,JustDial,Bangalore,Balaji Street Ramamurthy Nagar,False,True,False
+Vishwa Bhaavni Yoga Centre,"3rd Cross Road Circular Street, Bangalore",,4.8,302,Yoga Centre,JustDial,Bangalore,Road Circular Street,False,True,False
+Sankalp Yoga Shala,"13th Cross Road Jayanagar 6th Block, Bangalore",,4.9,295,Yoga Centre,JustDial,Bangalore,Road Jayanagar,False,True,False
+Kushiyogalaya Yoga Classes,"Nandhini Layout. Nandini Layout, Bangalore",,5.0,284,Yoga Centre,JustDial,Bangalore,Nandhini Layout. Nandini Layout,False,True,False
+Sanskriti Yogashala,"Bangarappanagar Main Road Bangarappanagar, Bangalore",,4.9,288,Yoga Centre,JustDial,Bangalore,Bangarappanagar Main Road Bangarappanagar,False,True,False
+Bloom Prenatal Therapy Yoga,"KV Layout Jayanagar 4th T Block, Bangalore",,5.0,278,Yoga Centre,JustDial,Bangalore,KV Layout Jayanagar,False,True,False
+Shoban's Creative Yoga,"Sharada Nagar-Bikasipura, Bangalore",,4.9,282,Yoga Centre,JustDial,Bangalore,Sharada Nagar-Bikasipura,False,True,False
+Yoga Wellness Center,"2nd Cross Road Kasturi Nagar, Bangalore",,4.8,284,Yoga Centre,JustDial,Bangalore,Road Kasturi Nagar,False,True,False
+Rashtrotthana Yoga Centre,"E Block Brookefield, Bangalore",,4.8,276,Yoga Centre,JustDial,Bangalore,E Block Brookefield,False,True,False
+A 1000 Yoga,"1st Cross Koramangala, Bangalore",,4.0,326,Yoga Centre,JustDial,Bangalore,Koramangala,False,True,False
+Rv Yoga Kendra,"Ramamurthy Nagara Main Road Ramamurthy Nagar, Bangalore",,4.7,273,Yoga Centre,JustDial,Bangalore,Ramamurthy Nagara Main Road Ramamurthy Nagar,False,True,False
+Trimuk Yoga,"Jp Nagar 5th Phase, Bangalore",,4.9,250,Yoga Centre,JustDial,Bangalore,Jp Nagar 5th Phase,False,True,False
+Chaitanya Wellness Yoga Academy,"GR Arcade Kasavanahalli, Bangalore",,4.8,248,Yoga Centre,JustDial,Bangalore,GR Arcade Kasavanahalli,False,True,False
+Sri Krishna Wellness Yoga And Cultural Centre,"6th Main Malleswaram, Bangalore",,4.7,250,Yoga Centre,JustDial,Bangalore,Malleswaram,False,True,False
+The Yoga Room By Vidhya Vakil,"National Games Village Complex KHB Games Village, Bangalore",,5.0,234,Yoga Centre,JustDial,Bangalore,National Games Village Complex KHB Games Village,False,True,False
+Sunraya Yoga & Wellness Center,"NO 9 8TH E MAIN Vidyaranyapura, Bangalore",,4.9,236,Yoga Centre,JustDial,Bangalore,NO 9 8TH E MAIN Vidyaranyapura,False,True,False
+Stepperz Aerobics Dance N Yoga Studio,"13th Cross Sadashivanagar, Bangalore",,4.0,270,Yoga Centre,JustDial,Bangalore,Sadashivanagar,False,True,False
+Metta Yoga & Pilates Studio,"Ivri Road Yelahanka, Bangalore",,5.0,208,Yoga Centre,JustDial,Bangalore,Ivri Road Yelahanka,False,True,False
+Ashish Yoga Fitness Varthur,"Devasthanagalu, Bangalore",,5.0,202,Yoga Centre,JustDial,Bangalore,Devasthanagalu,False,True,False
+Aayana Yoga Academy,"37th Cross Jayanagar 4th T Block, Bangalore",,4.9,203,Yoga Centre,JustDial,Bangalore,Jayanagar,False,True,False
+Sri Gururaya School Of Yoga,"Gnana Bharathi Main Road Nagarbhavi, Bangalore",,4.9,202,Yoga Centre,JustDial,Bangalore,Gnana Bharathi Main Road Nagarbhavi,False,True,False
+Chaitanya Wellness Yoga Studio,"7th Cross C V Raman Nagar, Bangalore",,4.6,209,Yoga Centre,JustDial,Bangalore,C V Raman Nagar,False,True,False
+Deepam Yoga Classes,"Nagarabhavi Nagarbhavi, Bangalore",,4.9,188,Yoga Centre,JustDial,Bangalore,Nagarabhavi Nagarbhavi,False,True,False
+The Rising Soul Yoga,"Shirdi Sai Nagar-Munekollal, Bangalore",,4.9,186,Yoga Centre,JustDial,Bangalore,Shirdi Sai Nagar-Munekollal,False,True,False
+Chikitsa Yoga Treatment Center,"Uttarahalli Main Road Uttarahalli, Bangalore",,4.9,181,Yoga Centre,JustDial,Bangalore,Uttarahalli Main Road Uttarahalli,False,True,False
+National Academy For Naturopathy And Yoga,"3rd Cross Vijaya Bank Layout, Bangalore",,4.8,183,Yoga Centre,JustDial,Bangalore,Vijaya Bank Layout,False,True,False
+Aarya Yoga,"10th Cross Road Hebbal, Bangalore",,4.9,178,Yoga Centre,JustDial,Bangalore,Road Hebbal,False,True,False
+Prana Yoga Studio And Acupuncture Clinic,"K Narayanapura Road Kothanur, Bangalore",,4.7,180,Yoga Centre,JustDial,Bangalore,K Narayanapura Road Kothanur,False,True,False
+Shree Yoga Academy,"Double Road Doddakallasandra, Bangalore",,5.0,167,Yoga Centre,JustDial,Bangalore,Double Road Doddakallasandra,False,True,False
+Atma Darshan Yogashram,"Dayanandasagar College Road Kumaraswamy Layout, Bangalore",,4.6,176,Yoga Centre,JustDial,Bangalore,Dayanandasagar College Road Kumaraswamy Layout,False,True,False
+Shivananda Yoga Centtre,"9th B Cross HBR Layout 4th Block, Bangalore",,4.8,164,Yoga Centre,JustDial,Bangalore,HBR Layout,False,True,False
+Laksh Yoga,"Sarvabhouma Nagar Bilekahalli, Bangalore",,5.0,156,Yoga Centre,JustDial,Bangalore,Sarvabhouma Nagar Bilekahalli,False,True,False
+Sangamithra Yoga,"Ramamurthy Nagar, Bangalore",,5.0,151,Yoga Centre,JustDial,Bangalore,Ramamurthy Nagar,False,True,False
+Yogashree,"Ramakrishna Garden Girinagar, Bangalore",,4.9,153,Yoga Centre,JustDial,Bangalore,Ramakrishna Garden Girinagar,False,True,False
+Vismaya Yoga Centre,"Begur Main Road Bommanahalli, Bangalore",,4.9,152,Yoga Centre,JustDial,Bangalore,Begur Main Road Bommanahalli,False,True,False
+Dharshmi Yoga Academy,"Outer Ring Road Mahadevapura, Bangalore",,4.8,155,Yoga Centre,JustDial,Bangalore,Outer Ring Road Mahadevapura,False,True,False
+San Yoga Studio,"Tumkur Road Yeshwanthpur, Bangalore",,5.0,147,Yoga Centre,JustDial,Bangalore,Tumkur Road Yeshwanthpur,False,True,False
+Mamdev Yoga Hub,"Srinivasnagar Main Road Banashankari, Bangalore",,4.9,149,Yoga Centre,JustDial,Bangalore,Srinivasnagar Main Road Banashankari,False,True,False
+Hriti Yoga By Ruchi,"Vigneshwar Nagar, Bangalore",,5.0,139,Yoga Centre,JustDial,Bangalore,Vigneshwar Nagar,False,True,False
+Isha Yoga Center,"1st Block East Jayanagar 1st Block, Bangalore",,4.6,151,Yoga Centre,JustDial,Bangalore,East Jayanagar,False,True,False
+Yogakshema Yoga Center,"10th Main Ngef Layout Nagarbhavi, Bangalore",,4.9,140,Yoga Centre,JustDial,Bangalore,Ngef Layout Nagarbhavi,False,True,False
+Prashanth Yoga Mandir,"2nd Main Road Vijayanagar, Bangalore",,4.9,139,Yoga Centre,JustDial,Bangalore,Vijayanagar,False,True,False
+Aayush Yoga Mandir And Fitness,"Srinivas Complex Doddaballapur, Bangalore",,4.9,138,Yoga Centre,JustDial,Bangalore,Srinivas Complex Doddaballapur,False,True,False
+Fitness Yoga,"Wheeler Road Frazer Town, Bangalore",,4.8,133,Yoga Centre,JustDial,Bangalore,Wheeler Road Frazer Town,False,True,False
+Nourish Homeyoga,"Krishnarajapuram, Bangalore",,4.9,130,Yoga Centre,JustDial,Bangalore,Krishnarajapuram,False,True,False
+Sparsh Yoga Centre,"24th Main Jp Nagar 6th Phase, Bangalore",,4.8,130,Yoga Centre,JustDial,Bangalore,Jp Nagar 6th Phase,True,True,False
+Vedic Yoga Shala,"1st Main Koramangala, Bangalore",,5.0,122,Yoga Centre,JustDial,Bangalore,Koramangala,False,True,False
+Guhyamworld Health And Wellness Store,"5th A Main Road Malleshpalya, Bangalore",,5.0,119,Yoga Centre,JustDial,Bangalore,Malleshpalya,False,True,False
+Do Yoga,"4th Main Road Hsr Layout, Bangalore",,4.6,127,Yoga Centre,JustDial,Bangalore,Hsr Layout,False,True,False
+Shivanjali Yoga Kendra,"1st Cross Road Sahakara Nagar, Bangalore",,4.9,119,Yoga Centre,JustDial,Bangalore,Road Sahakara Nagar,False,True,False
+Srimoyi Yoga,"Sarjapur Outer Ring Road Bellandur, Bangalore",,4.4,130,Yoga Centre,JustDial,Bangalore,Sarjapur Outer Ring Road Bellandur,False,True,False
+Zorba - Yoga Studio,"Thambu Chetty Palya Main Road Ragavendra Circle, Bangalore",,4.7,116,Yoga Centre,JustDial,Bangalore,Thambu Chetty Palya Main Road Ragavendra Circle,False,True,False
+Kaushalam Yoga Kendra,"13th Cross Road Jp Nagar, Bangalore",,4.8,113,Yoga Centre,JustDial,Bangalore,Road Jp Nagar,False,True,False
+Gnanisprit Yoga,"17th Main Road Byataranyanapura, Bangalore",,5.0,107,Yoga Centre,JustDial,Bangalore,Byataranyanapura,False,True,False
+Yoga Sangha,"19th Main Road Hsr Layout Sector 4, Bangalore",,4.8,111,Yoga Centre,JustDial,Bangalore,Hsr Layout Sector 4,False,True,False
+Akshar Power Yoga Academy,"Block C Sahakara Nagar, Bangalore",,4.4,119,Yoga Centre,JustDial,Bangalore,Block C Sahakara Nagar,False,True,False
+Shree Yoga,"Aecs Layout C Block Aecs Layout Bengaluru Brookefield, Bangalore",,4.9,105,Yoga Centre,JustDial,Bangalore,Aecs Layout C Block Aecs Layout Bengaluru Brookefield,False,True,False
+Neolife Yoga Studio,"Aecs Layout Kundalahalli, Bangalore",,3.7,135,Yoga Centre,JustDial,Bangalore,Aecs Layout Kundalahalli,False,True,False
+Harsha Yoga Pathashala,"3rd Main Road Nagarbhavi, Bangalore",,4.6,108,Yoga Centre,JustDial,Bangalore,Nagarbhavi,False,True,False
+The Practice Room,"Bengaluru Cooke Town, Bangalore",,4.9,98,Yoga Centre,JustDial,Bangalore,Bengaluru Cooke Town,False,True,False
+Swatma Yoga Centre,"Kachohalli Main Road ISRO Layout Kumaraswamy, Bangalore",,5.0,94,Yoga Centre,JustDial,Bangalore,Kachohalli Main Road ISRO Layout Kumaraswamy,False,True,False
+Best International Institute,"Chandra Layout Vijayanagar, Bangalore",,4.9,95,Yoga Centre,JustDial,Bangalore,Chandra Layout Vijayanagar,False,True,False
+Swamy Vivekananda Yoga Kendra,"Dr Rajkumar Road Rajajinagar, Bangalore",,4.2,110,Yoga Centre,JustDial,Bangalore,Dr Rajkumar Road Rajajinagar,False,True,False
+Zen Yoga Shala,"7th Cross Road Thanisandra, Bangalore",,4.9,94,Yoga Centre,JustDial,Bangalore,Road Thanisandra,False,True,False
+CrossFit Agni,Bangalore 560043,9108850776.0,4.9,239,CrossFit-Box,JustDial,Bangalore,Bangalore,False,False,True
+I Think CrossFit,Bangalore 560037,9742568433.0,4.9,64,CrossFit-Box,JustDial,Bangalore,Bangalore,False,False,True
+CrossFit Yuva,Bangalore 560077,8277703706.0,4.8,77,CrossFit-Box,JustDial,Bangalore,Bangalore,False,False,True
+CrossFit For Sure,Bangalore 560077,9108456500.0,4.5,77,CrossFit-Box,JustDial,Bangalore,Bangalore,False,False,True
+Namma CrossFit HSR,"HSR Layout, Bangalore",8884562662.0,5.0,4,CrossFit-Box,JustDial,Bangalore,HSR Layout,False,False,True
+Once More CrossFit,Bangalore 560077,9449015091.0,4.7,34,CrossFit-Box,JustDial,Bangalore,Bangalore,False,False,True
+TFD CrossFit (Cult),"Koramangala, Bangalore",,4.6,514,CrossFit-Box,JustDial,Bangalore,Koramangala,False,True,False
