@@ -1,7 +1,10 @@
+
+
 # Wellness-Data-Analytics
 Fitness Data Analysis
 Fitness Business Intelligence & Market Analysis – README
 1. Introduction
+Automated web scraping and data pipeline for fitness business intelligence using Playwright and Pandas
 The fitness industry in urban India is rapidly evolving due to increasing health awareness, urbanization, and rising wellness spending among young professionals and students. Bengaluru, as one of India’s largest metropolitan and IT hubs, has a highly competitive and fragmented fitness ecosystem — gyms, yoga studios, CrossFit centres, Pilates studios, Zumba centres, calisthenics centres, and other specialized wellness businesses.
 This project focuses on scraping, cleaning, and analysing Bengaluru fitness centre data to generate business intelligence insights related to market saturation, customer engagement, demographic accessibility, and expansion opportunities. Using Playwright, we collected business listings from Justdial, merged multiple CSV outputs, and prepared the dataset for structured analysis.
 The goal is to provide actionable insights for fitness businesses, investors, and analysts.
